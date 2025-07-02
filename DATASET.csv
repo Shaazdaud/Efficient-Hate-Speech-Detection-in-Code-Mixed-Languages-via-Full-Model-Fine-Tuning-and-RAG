@@ -1,0 +1,1601 @@
+ID,Text,Label,Parent_Text,Hashtags,Language_Script,Sentiment
+1,Ye Modi aur uske chamche desh ko barbad kar rahe hain. Inko jail mein daalo!,hate,N/A,#politics,Mixed,Negative
+2,"Kal ki movie bohot achi thi, acting aur story dono lajawab!",non-hate,N/A,#movies,Mixed,Positive
+3,Aaj ka weather kaisa hai? Bahar jane ka mood nahi hai.,non-hate,N/A,#daily life,Mixed,Neutral
+4,Tum jaise logon ki wajah se hi desh ka bera gark ho raha hai. Chup karo!,hate,I think the new policy is good for the economy.,#politics,Mixed,Negative
+5,Tumhara dimaag kharab hai kya? Itna ganda comment mat karo.,hate,N/A,#social media,Romanized,Negative
+6,"I totally agree with you, great point!",non-hate,The government should focus more on education.,#education,English,Positive
+7,"Ye Muslims desh ke liye khatra hain, inko bahar nikal do.",hate,N/A,#religion,Mixed,Negative
+8,Mujhe lagta hai ki sabko equal rights milne chahiye.,non-hate,N/A,#equality,Mixed,Positive
+9,"Kal office jaana hai, bahut kaam pending hai.",non-hate,N/A,#work,Mixed,Neutral
+10,"Ye feminists sirf dikkat karte hain, kuch kaam nahi karte.",hate,N/A,#gender,Mixed,Negative
+11,"Mujhe ye song bohot pasand hai, lyrics aur music dono awesome hain.",non-hate,N/A,#music,Mixed,Positive
+12,"Ye cricketer to bilkul bekar hai, team se nikal do isko.",hate,N/A,#sports,Mixed,Negative
+13,"Aaj khana banaane ka mood nahi, order karte hain.",non-hate,N/A,#food,Mixed,Neutral
+14,Tum jaise logon ko social media pe ban kar dena chahiye.,hate,I don't like this new feature update.,#technology,Mixed,Negative
+15,"This new phone is amazing, camera quality is top-notch!",non-hate,N/A,#technology,English,Positive
+16,"Ye caste system ko khatam karna chahiye, bahut injustice hai.",non-hate,N/A,#social issues,Mixed,Negative
+17,Tumhare jaise log hi society ko toxic banate ho.,hate,Men and women should have equal opportunities.,#gender,Mixed,Negative
+18,Kal ka match dekh liya? India ne zabardast khela!,non-hate,N/A,#sports,Mixed,Positive
+19,"Ye politicians sirf vote ke liye kaam karte hain, desh ka kuch nahi sochte.",hate,N/A,#politics,Mixed,Negative
+20,"Mujhe ye naya web series bohot pasand aaya, binge-watch kar liya!",non-hate,N/A,#entertainment,Mixed,Positive
+21,"Tumhara opinion bilkul galat hai, research karo pehle.",hate,Climate change is a serious issue.,#environment,Mixed,Negative
+22,"Aaj subah se headache ho raha hai, koi remedy suggest karo.",non-hate,N/A,#health,Mixed,Neutral
+23,"Ye foreigners India ko badnaam karte hain, inko deport karo.",hate,N/A,#nationalism,Mixed,Negative
+24,I think we should respect all religions equally.,non-hate,N/A,#religion,English,Positive
+25,"Kal se gym start kar raha hoon, fit rehna zaroori hai.",non-hate,N/A,#fitness,Mixed,Positive
+26,Tum jaise logon ki wajah se hi women unsafe feel karti hain.,hate,We need stricter laws for women's safety.,#gender,Mixed,Negative
+27,Ye naya restaurant try kiya? Food quality amazing hai!,non-hate,N/A,#food,Mixed,Positive
+28,Tumhare jaise influencers sirf paise ke liye kuch bhi karte ho.,hate,N/A,#social media,Mixed,Negative
+29,"Aaj ka din bohot productive raha, kaam khatam kar liya.",non-hate,N/A,#work,Mixed,Positive
+30,"Ye Chinese apps ko ban karna chahiye, data chori karte hain.",hate,N/A,#technology,Mixed,Negative
+31,Mujhe lagta hai ki education system mein reforms ki zaroorat hai.,non-hate,N/A,#education,Mixed,Neutral
+32,Tumhare jaise log hi corruption ko badhava dete ho.,hate,I believe in transparent governance.,#politics,Mixed,Negative
+33,"Kal ki party mein bohot maza aaya, friends ke saath time spend kiya.",non-hate,N/A,#social life,Mixed,Positive
+34,Ye Bollywood walon ne industry ko nepotism ka adda bana diya hai.,hate,N/A,#entertainment,Mixed,Negative
+35,I think yoga is great for mental and physical health.,non-hate,N/A,#health,English,Positive
+36,Tum jaise logon ko politics mein aane ka koi haq nahi.,hate,Everyone has the right to participate in democracy.,#politics,Mixed,Negative
+37,"Aaj ka traffic unbearable tha, late ho gaya office ke liye.",non-hate,N/A,#daily life,Mixed,Negative
+38,"Ye LGBTQ community walon ko zyada rights mat do, society kharab ho jayegi.",hate,N/A,#social issues,Mixed,Negative
+39,"Mujhe ye naya laptop bohot pasand aaya, performance excellent hai.",non-hate,N/A,#technology,Mixed,Positive
+40,Tumhare jaise log hi fake news failate ho.,hate,We need to fact-check information before sharing.,#social media,Mixed,Negative
+41,"Kal se diet start kar raha hoon, healthy living is important.",non-hate,N/A,#health,Mixed,Positive
+42,"Ye reservation system ko khatam karo, merit pe focus karo.",hate,N/A,#social issues,Mixed,Negative
+43,"I love how this app makes life easier, great user interface!",non-hate,N/A,#technology,English,Positive
+44,Tum jaise logon ki wajah se hi desh piche ja raha hai.,hate,India is progressing rapidly in many sectors.,#nationalism,Mixed,Negative
+45,Aaj ka weather perfect hai picnic ke liye.,non-hate,N/A,#daily life,Mixed,Positive
+46,Ye celebrities sirf attention ke liye drama karte hain.,hate,N/A,#entertainment,Mixed,Negative
+47,Mujhe lagta hai ki renewable energy future hai.,non-hate,N/A,#environment,Mixed,Positive
+48,Tumhare jaise log hi sports ko politics se jodte ho.,hate,Sports should be about talent and hard work.,#sports,Mixed,Negative
+49,"Kal ka exam tough tha, but I think I did well.",non-hate,N/A,#education,Mixed,Neutral
+50,"Ye immigrants ko desh se bahar karo, jobs churate hain.",hate,N/A,#nationalism,Mixed,Negative
+51,"Ye neta log sirf vote ke liye drama karte hain, kaam zero.",hate,N/A,#politics,Mixed,Negative
+52,Mujhe lagta hai ki new metro project city ko transform karega.,non-hate,N/A,#politics,Mixed,Positive
+53,"Ye heroine ka acting wooden hai, talent naam ka nahi.",hate,N/A,#movies,Mixed,Negative
+54,"Kal ka song release bohot catchy tha, playlist mein add kar diya.",non-hate,N/A,#music,Mixed,Positive
+55,Aaj ka traffic ne sara mood kharab kar diya.,non-hate,N/A,#daily life,Mixed,Negative
+56,Mujhe ye street food stall ka taste unbeatable lagta hai.,non-hate,N/A,#food,Mixed,Positive
+57,Tum jaise log hi women empowerment ko rok rahe ho.,hate,Women deserve equal rights.,#gender,Mixed,Negative
+58,I think interfaith marriages should be respected.,non-hate,N/A,#religion,English,Positive
+59,Ye company ka latest phone overpriced aur useless hai.,hate,N/A,#technology,Mixed,Negative
+60,Mujhe ye app ka interface bohot smooth lagta hai.,non-hate,N/A,#technology,Mixed,Positive
+61,"Ye player match haarne ka expert hai, team se nikal do.",hate,N/A,#sports,Mixed,Negative
+62,"Aaj ka game nail-biting tha, end tak excitement raha.",non-hate,N/A,#sports,Mixed,Positive
+63,Tumhare jaise log hi junk food ko glorify karte ho.,hate,Healthy eating is important.,#health,Mixed,Negative
+64,Morning walks ne meri energy levels badha di hain.,non-hate,N/A,#health,Mixed,Positive
+65,"Ye teachers bas syllabus complete karte hain, samajhate nahi.",hate,N/A,#education,Mixed,Negative
+66,Online courses ne learning ko flexible bana diya hai.,non-hate,N/A,#education,Mixed,Positive
+67,Ye log plastic use karte hain aur environment ka lecture dete hain.,hate,N/A,#environment,Mixed,Negative
+68,"Solar energy future hai, ispe invest karna chahiye.",non-hate,N/A,#environment,Mixed,Positive
+69,Tum jaise log desh ka naam badnaam karte ho.,hate,Proud to be Indian.,#nationalism,Mixed,Negative
+70,India ka diversity hi iski strength hai.,non-hate,N/A,#nationalism,Mixed,Positive
+71,"Ye news channels sirf sensationalism failate hain, truth nahi.",hate,N/A,#media,Mixed,Negative
+72,Mujhe ye new web series binge-worthy lagi.,non-hate,N/A,#entertainment,Mixed,Positive
+73,"Ye sarkar bas tax badhati hai, relief kuch nahi.",hate,N/A,#politics,Mixed,Negative
+74,Aaj subah ki chai ne din bana diya.,non-hate,N/A,#daily life,Mixed,Positive
+75,Tum jaise log hi religious harmony ko kharab karte ho.,hate,Live and let live.,#religion,Mixed,Negative
+76,I think fitness apps are a game-changer.,non-hate,N/A,#health,English,Positive
+77,Ye influencers ka content cringe aur fake hai.,hate,N/A,#social media,Mixed,Negative
+78,"Kal ka workout tough tha, but results dikh rahe hain.",non-hate,N/A,#fitness,Mixed,Positive
+79,Tumhare jaise log hi caste ko issue banate ho.,hate,Caste should not define us.,#social issues,Mixed,Negative
+80,Mujhe ye new movie ka storyline refreshing laga.,non-hate,N/A,#movies,Mixed,Positive
+81,"Ye bowler ka performance pathetic hai, retire karo.",hate,N/A,#sports,Mixed,Negative
+82,"Aaj ka sunset breathtaking tha, photo click kar li.",non-hate,N/A,#daily life,Mixed,Positive
+83,"Ye activists sirf attention seek karte hain, real change nahi.",hate,N/A,#social issues,Mixed,Negative
+84,I love how this gadget simplifies my routine.,non-hate,N/A,#technology,English,Positive
+85,Tum jaise log hi patriarchy ko support karte ho.,hate,Gender equality is the goal.,#gender,Mixed,Negative
+86,Mujhe ye online tutoring platform effective lagta hai.,non-hate,N/A,#education,Mixed,Positive
+87,"Ye log recycling ka lecture dete hain, khud kuch nahi karte.",hate,N/A,#environment,Mixed,Negative
+88,"Aaj ka concert energetic tha, crowd ne enjoy kiya.",non-hate,N/A,#music,Mixed,Positive
+89,Ye reservation policy talent ko kill karti hai.,hate,N/A,#social issues,Mixed,Negative
+90,Working remotely has improved my work-life balance.,non-hate,N/A,#work,English,Positive
+91,Tum jaise log hi desh ke against propaganda chalate ho.,hate,Unity is our strength.,#nationalism,Mixed,Negative
+92,Mujhe ye homemade meal ka taste nostalgic lagta hai.,non-hate,N/A,#food,Mixed,Positive
+93,Ye TV shows ka drama over-the-top aur boring hai.,hate,N/A,#entertainment,Mixed,Negative
+94,Ye new laptop ka speed impressive hai.,non-hate,N/A,#technology,Mixed,Positive
+95,Tumhare jaise log hi sportsmanship ko kharab karte ho.,hate,Sports should unite us.,#sports,Mixed,Negative
+96,Daily yoga ne mera focus improve kiya hai.,non-hate,N/A,#health,Mixed,Positive
+97,Ye government ka decision public ke against hai.,hate,N/A,#politics,Mixed,Negative
+98,I think podcasts are a great way to learn.,non-hate,N/A,#education,English,Positive
+99,Tum jaise log hi sexism ko promote karte ho.,hate,Equality for all.,#gender,Mixed,Negative
+100,Mujhe ye new cafe ka decor bohot cool lagta hai.,non-hate,N/A,#food,Mixed,Positive
+101,"Ye foreigners apni culture thopte hain, respect nahi karte.",hate,N/A,#nationalism,Mixed,Negative
+102,Aaj ka internet outage ne pura din waste kar diya.,non-hate,N/A,#daily life,Mixed,Negative
+103,Tumhare jaise log hi trolling ko fun samajhte ho.,hate,Keep social media positive.,#social media,Mixed,Negative
+104,This new game app is super addictive.,non-hate,N/A,#technology,English,Positive
+105,Ye singers ka autotune overuse irritating hai.,hate,N/A,#music,Mixed,Negative
+106,Mujhe lagta hai ki therapy mental health ke liye zaroori hai.,non-hate,N/A,#health,Mixed,Positive
+107,"Ye log equality ka naatak karte hain, asliyat kuch aur hai.",hate,N/A,#social issues,Mixed,Negative
+108,Kal ka workshop practical aur helpful tha.,non-hate,N/A,#education,Mixed,Positive
+109,Ye sarkar ka propaganda media ko control karta hai.,hate,N/A,#politics,Mixed,Negative
+110,I think e-learning platforms are the future.,non-hate,N/A,#education,English,Positive
+111,Tum jaise log hi communal hate spread karte ho.,hate,Peaceful coexistence matters.,#religion,Mixed,Negative
+112,"Aaj ka project deadline tough tha, but ho gaya.",non-hate,N/A,#work,Mixed,Positive
+113,Ye YouTubers ka content repetitive aur pointless hai.,hate,N/A,#social media,Mixed,Negative
+114,Mujhe ye smart home device bohot convenient lagta hai.,non-hate,N/A,#technology,Mixed,Positive
+115,"Ye team ka strategy useless hai, haarna pakka.",hate,N/A,#sports,Mixed,Negative
+116,"Aaj se running start ki, stamina build karna hai.",non-hate,N/A,#fitness,Mixed,Positive
+117,"Ye neta log promises karte hain, deliver kuch nahi.",hate,N/A,#politics,Mixed,Negative
+118,I believe green energy can save the planet.,non-hate,N/A,#environment,English,Positive
+119,Tum jaise log hi discrimination ko justify karte ho.,hate,Fairness matters.,#social issues,Mixed,Negative
+120,Ye new dessert shop ka taste mind-blowing hai.,non-hate,N/A,#food,Mixed,Positive
+121,"Ye outsiders apna agenda leke aate hain, reject karo.",hate,N/A,#nationalism,Mixed,Negative
+122,Aaj ka rain ne mood refreshing kar diya.,non-hate,N/A,#daily life,Mixed,Positive
+123,Tumhare jaise log hi online debates ko toxic banate ho.,hate,Healthy discussions please.,#social media,Mixed,Negative
+124,This new camera feature photography ko enhance karta hai.,non-hate,N/A,#technology,Mixed,Positive
+125,"Ye film ka direction hopeless hai, waste of time.",hate,N/A,#movies,Mixed,Negative
+126,Mujhe lagta hai ki tree planting drives effective hain.,non-hate,N/A,#environment,Mixed,Positive
+127,Tum jaise log hi women ko judge karte ho.,hate,Respect women.,#gender,Mixed,Negative
+128,"Kal ka lecture engaging tha, bohot seekha.",non-hate,N/A,#education,Mixed,Positive
+129,Ye government ka law bas public ko harass karta hai.,hate,N/A,#politics,Mixed,Negative
+130,I think virtual reality will change gaming.,non-hate,N/A,#technology,English,Positive
+131,Tum jaise log hi religious unity ko todte ho.,hate,Harmony is essential.,#religion,Mixed,Negative
+132,Aaj ka gym session tiring but satisfying tha.,non-hate,N/A,#fitness,Mixed,Positive
+133,Ye influencers ka paid promotion obvious aur annoying hai.,hate,N/A,#social media,Mixed,Negative
+134,Mujhe ye new headphones ka sound quality pasand hai.,non-hate,N/A,#technology,Mixed,Positive
+135,Ye coach ka decision team ko barbaad kar raha hai.,hate,N/A,#sports,Mixed,Negative
+136,Healthy diet ne meri energy boost kar di hai.,non-hate,N/A,#health,Mixed,Positive
+137,Ye sarkar ka budget elitist aur impractical hai.,hate,N/A,#politics,Mixed,Negative
+138,I think art therapy is great for stress relief.,non-hate,N/A,#health,English,Positive
+139,Tum jaise log hi social progress ko block karte ho.,hate,Change is necessary.,#social issues,Mixed,Negative
+140,Ye new bakery ka cake delicious tha.,non-hate,N/A,#food,Mixed,Positive
+141,"Ye immigrants jobs churate hain, inko rokna chahiye.",hate,N/A,#nationalism,Mixed,Negative
+142,Aaj ka evening walk relaxing tha.,non-hate,N/A,#daily life,Mixed,Positive
+143,Tumhare jaise log hi cyberbullying ko normal banate ho.,hate,Online respect matters.,#social media,Mixed,Negative
+144,This app ka update ne usability improve ki.,non-hate,N/A,#technology,Mixed,Positive
+145,Ye serial ka plot bakwas aur dragged hai.,hate,N/A,#entertainment,Mixed,Negative
+146,Mujhe lagta hai ki pollution control laws strict hone chahiye.,non-hate,N/A,#environment,Mixed,Positive
+147,Tum jaise log hi gender roles ko enforce karte ho.,hate,Break stereotypes.,#gender,Mixed,Negative
+148,Kal ka online class interactive aur fun tha.,non-hate,N/A,#education,Mixed,Positive
+149,Ye neta ka speech divisive aur hateful tha.,hate,N/A,#politics,Mixed,Negative
+150,I think renewable energy is a smart investment.,non-hate,N/A,#environment,English,Positive
+151,"Ye neta log bas jhooth bolte hain, public ko fool banate hain.",hate,N/A,#politics,Mixed,Negative
+152,"Aaj ka episode bohot mast tha, twists ne dil jeet liya.",non-hate,N/A,#entertainment,Mixed,Positive
+153,Subah ka coffee bina din start nahi hota.,non-hate,N/A,#daily life,Mixed,Neutral
+154,"Ye log apne caste ke naam pe vote mangte hain, shame!",hate,N/A,#social issues,Mixed,Negative
+155,"Naya smartwatch ka design killer hai, buy karna padega.",non-hate,N/A,#technology,Mixed,Positive
+156,"Ye bowler ekdum useless hai, runs hi deta hai.",hate,N/A,#sports,Mixed,Negative
+157,"Fruits khane se immunity strong hoti hai, try karo.",non-hate,N/A,#health,Mixed,Positive
+158,"Ye professors ko padhana nahi aata, bas lecture dete hain.",hate,N/A,#education,Mixed,Negative
+159,Cycle chalana environment aur health dono ke liye good hai.,non-hate,N/A,#environment,Mixed,Positive
+160,"Ye log desh ka naam badnaam karte hain, bahar bhejo inko.",hate,N/A,#nationalism,Mixed,Negative
+161,Tum jaise log hi development ko oppose karte ho.,hate,New infrastructure projects will boost the economy.,#politics,Mixed,Negative
+162,I think this new law will help small businesses.,non-hate,Government announced a new tax policy.,#politics,English,Positive
+163,"Ye song ka vibe alag level ka hai, repeat pe hai.",non-hate,N/A,#music,Mixed,Positive
+164,"Tum logon ki soch narrow-minded hai, grow up!",hate,N/A,#social media,Romanized,Negative
+165,Aaj ghar pe power cut ne mood kharab kar diya.,non-hate,N/A,#daily life,Mixed,Negative
+166,"Exam ke liye notes ready hain, bas luck chahiye.",non-hate,N/A,#education,Mixed,Neutral
+167,Ye politicians ka corruption kabhi khatam nahi hoga.,hate,N/A,#politics,Mixed,Negative
+168,"Ye gadget ka battery life zabardast hai, worth it!",non-hate,N/A,#technology,Mixed,Positive
+169,Ye activists bas attention ke liye chillate hain.,hate,N/A,#social issues,Mixed,Negative
+170,Online courses ne skills improve karne mein help ki.,non-hate,N/A,#education,Mixed,Positive
+171,Ye log apne religion ke naam pe violence karte hain.,hate,N/A,#religion,Mixed,Negative
+172,Kal ka traffic jam ne pura plan cancel kar diya.,non-hate,N/A,#daily life,Mixed,Negative
+173,"Ye batsman flop hai, team ka load mat bano.",hate,N/A,#sports,Mixed,Negative
+174,New movie ka trailer exciting lag raha hai.,non-hate,N/A,#movies,Mixed,Positive
+175,Tum jaise log hi unity ko destroy karte ho.,hate,We should stand together as a nation.,#nationalism,Mixed,Negative
+176,"This app saves time, bohot useful hai.",non-hate,N/A,#technology,Mixed,Positive
+177,Ye trolls online bas negativity failate hain.,hate,N/A,#social media,Mixed,Negative
+178,Aaj ka breakfast healthy aur tasty tha.,non-hate,N/A,#food,Mixed,Positive
+179,Ye sarkar ka policy middle class ko loot rahi hai.,hate,N/A,#politics,Mixed,Negative
+180,I believe everyone deserves equal opportunities.,non-hate,N/A,#social issues,English,Positive
+181,Tum jaise log hi scams ko support karte ho.,hate,We need strict laws against corruption.,#politics,Mixed,Negative
+182,Dost ke saath outing bohot fun thi aaj.,non-hate,N/A,#daily life,Mixed,Positive
+183,Ye actors ka overacting unbearable ho gaya hai.,hate,N/A,#entertainment,Mixed,Negative
+184,"Solar energy ka use badhana chahiye, future bright hai.",non-hate,N/A,#environment,Mixed,Positive
+185,Ye log bas apne power ke liye desh bechte hain.,hate,N/A,#politics,Mixed,Negative
+186,"Match ka result unexpected tha, thrill pura tha.",non-hate,N/A,#sports,Mixed,Positive
+187,Tum jaise log hi women empowerment ko joke banate ho.,hate,Support gender equality.,#gender,Mixed,Negative
+188,Morning meditation ne mind calm kar diya.,non-hate,N/A,#health,Mixed,Positive
+189,"Ye media wale biased news dete hain, trust nahi.",hate,N/A,#media,Mixed,Negative
+190,Ye new restaurant ka vibe cozy aur awesome hai.,non-hate,N/A,#food,Mixed,Positive
+191,"Ye system inequality ko promote karta hai, change chahiye.",hate,N/A,#social issues,Mixed,Negative
+192,"Remote work ne flexibility di hai, loving it!",non-hate,N/A,#work,Mixed,Positive
+193,Tum jaise log hi peace ko disturb karte ho.,hate,Let‘«÷s promote harmony.,#religion,Mixed,Negative
+194,"Aaj ka run energizing tha, fitness goals on track.",non-hate,N/A,#fitness,Mixed,Positive
+195,Ye influencers ka drama fake aur irritating hai.,hate,N/A,#social media,Mixed,Negative
+196,Ye smart TV ka picture quality mind-blowing hai.,non-hate,N/A,#technology,Mixed,Positive
+197,Ye captain ka decision team ko duba dega.,hate,N/A,#sports,Mixed,Negative
+198,Protein shake ne workout ke baad recovery boost ki.,non-hate,N/A,#health,Mixed,Positive
+199,Ye government ka tax plan bas ameeron ke liye hai.,hate,N/A,#politics,Mixed,Negative
+200,I think journaling helps with self-reflection.,non-hate,N/A,#health,English,Positive
+201,Tum jaise log hi progress ke against hote ho.,hate,Society needs to evolve.,#social issues,Mixed,Negative
+202,"Ye dessert ka taste heavenly tha, must try!",non-hate,N/A,#food,Mixed,Positive
+203,"Ye outsiders apne rules thopte hain, unacceptable!",hate,N/A,#nationalism,Mixed,Negative
+204,Aaj ka sunset peaceful aur beautiful tha.,non-hate,N/A,#daily life,Mixed,Positive
+205,Tum jaise log hi online space ko toxic banate ho.,hate,Spread positivity online.,#social media,Mixed,Negative
+206,This update ne app ko smooth aur fast bana diya.,non-hate,N/A,#technology,Mixed,Positive
+207,Ye film ka climax boring aur predictable tha.,hate,N/A,#movies,Mixed,Negative
+208,Recycling habits environment ke liye game-changer hain.,non-hate,N/A,#environment,Mixed,Positive
+209,Tum jaise log hi women ko stereotype karte ho.,hate,Break gender norms.,#gender,Mixed,Negative
+210,Online quiz ne knowledge test karne mein mazza diya.,non-hate,N/A,#education,Mixed,Positive
+211,Ye neta ka promise ek aur jhootha wada hai.,hate,N/A,#politics,Mixed,Negative
+212,I think AI will revolutionize industries.,non-hate,N/A,#technology,English,Positive
+213,Ye log bas apne fayde ke liye public ko use karte hain.,hate,N/A,#politics,Mixed,Negative
+214,Ye new album ka energy infectious hai.,non-hate,N/A,#music,Mixed,Positive
+215,Tumhare jaise log hi equality ka mazak banate ho.,hate,Justice for all.,#social issues,Mixed,Negative
+216,Aaj ka team meeting short aur effective tha.,non-hate,N/A,#work,Mixed,Positive
+217,Ye reality shows ka content cheap aur scripted hai.,hate,N/A,#entertainment,Mixed,Negative
+218,I believe in sustainable living for a better planet.,non-hate,N/A,#environment,English,Positive
+219,Tum jaise log hi desh ke values ko kharab karte ho.,hate,Respect our culture.,#nationalism,Mixed,Negative
+220,Home-cooked khana ka swad unbeatable hai.,non-hate,N/A,#food,Mixed,Positive
+221,Ye serial ka storyline nonsense aur dragged hai.,hate,N/A,#entertainment,Mixed,Negative
+222,Ye new earbuds ka sound crystal clear hai.,non-hate,N/A,#technology,Mixed,Positive
+223,Ye player ka attitude team spirit ko ruin karta hai.,hate,N/A,#sports,Mixed,Negative
+224,Daily stretching ne flexibility badha di hai.,non-hate,N/A,#health,Mixed,Positive
+225,Ye sarkar ka education budget useless hai.,hate,N/A,#politics,Mixed,Negative
+226,I think coding skills are essential today.,non-hate,N/A,#education,English,Positive
+227,Tum jaise log hi patriarchy ko support karte ho.,hate,Equality matters.,#gender,Mixed,Negative
+228,Ye coffee shop ka ambiance perfect hai.,non-hate,N/A,#food,Mixed,Positive
+229,Ye foreigners apni identity impose karte hain.,hate,N/A,#nationalism,Mixed,Negative
+230,Aaj ka rain ne garmi se relief diya.,non-hate,N/A,#daily life,Mixed,Positive
+231,Tumhare jaise log hi hate comments se fame chahte ho.,hate,Keep it respectful.,#social media,Mixed,Negative
+232,This fitness app ne routine organize kiya.,non-hate,N/A,#technology,Mixed,Positive
+233,Ye singers ka live performance flat aur boring tha.,hate,N/A,#music,Mixed,Negative
+234,Mujhe lagta hai ki clean energy future hai.,non-hate,N/A,#environment,Mixed,Positive
+235,Ye log bas apne agenda ke liye diversity ka natak karte hain.,hate,N/A,#social issues,Mixed,Negative
+236,Group study ne revision easy bana diya.,non-hate,N/A,#education,Mixed,Positive
+237,Ye media ka narrative public ko mislead karta hai.,hate,N/A,#media,Mixed,Negative
+238,I think hybrid cars are eco-friendly.,non-hate,N/A,#environment,English,Positive
+239,Tum jaise log hi unity ko weaken karte ho.,hate,Together we stand.,#religion,Mixed,Negative
+240,Aaj ka yoga session refreshing tha.,non-hate,N/A,#fitness,Mixed,Positive
+241,Ye content creators ka hype overrated hai.,hate,N/A,#social media,Mixed,Negative
+242,Ye new phone ka camera next-level hai.,non-hate,N/A,#technology,Mixed,Positive
+243,Ye coach ka plan team ko fail karwaega.,hate,N/A,#sports,Mixed,Negative
+244,Herbal tea ne sleep improve kar di hai.,non-hate,N/A,#health,Mixed,Positive
+245,Ye government ka scheme bas vote bank ke liye hai.,hate,N/A,#politics,Mixed,Negative
+246,I think e-books are convenient for students.,non-hate,N/A,#education,English,Positive
+247,Tum jaise log hi inclusivity ka drama karte ho.,hate,Be genuine.,#social issues,Mixed,Negative
+248,Ye new pizza place ka taste awesome hai.,non-hate,N/A,#food,Mixed,Positive
+249,Ye log desh ke culture ko disrespect karte hain.,hate,N/A,#nationalism,Mixed,Negative
+250,Aaj ka commute smooth aur quick tha.,non-hate,N/A,#daily life,Mixed,Positive
+251,Tumhare jaise log hi online negativity badhate ho.,hate,Promote kindness.,#social media,Mixed,Negative
+252,This app ka interface user-friendly hai.,non-hate,N/A,#technology,Mixed,Positive
+253,Ye movie ka script pathetic aur lazy tha.,hate,N/A,#movies,Mixed,Negative
+254,Tree plantation ne local climate pe effect dikhaya.,non-hate,N/A,#environment,Mixed,Positive
+255,Tum jaise log hi women ko limit karte ho.,hate,Empower women.,#gender,Mixed,Negative
+256,Kal ka seminar informative aur engaging tha.,non-hate,N/A,#education,Mixed,Positive
+257,Ye neta ka agenda divisive aur dangerous hai.,hate,N/A,#politics,Mixed,Negative
+258,I think drones will transform delivery systems.,non-hate,N/A,#technology,English,Positive
+259,Ye log bas apne power ke liye public ko fool banate hain.,hate,N/A,#politics,Mixed,Negative
+260,Ye new track ka rhythm addictive hai.,non-hate,N/A,#music,Mixed,Positive
+261,Tumhare jaise log hi justice ko undermine karte ho.,hate,Fairness for all.,#social issues,Mixed,Negative
+262,Aaj ka brainstorming session productive tha.,non-hate,N/A,#work,Mixed,Positive
+263,Ye TV ads ka content annoying aur repetitive hai.,hate,N/A,#media,Mixed,Negative
+264,I believe mindfulness improves focus.,non-hate,N/A,#health,English,Positive
+265,Tum jaise log hi desh ke pride ko hurt karte ho.,hate,Honor our nation.,#nationalism,Mixed,Negative
+266,Ye street food ka flavor unbeatable hai.,non-hate,N/A,#food,Mixed,Positive
+267,Ye web series ka hype bas marketing gimmick hai.,hate,N/A,#entertainment,Mixed,Negative
+268,Ye smartwatch ka fitness tracking accurate hai.,non-hate,N/A,#technology,Mixed,Positive
+269,Ye referee ka decision biased aur unfair tha.,hate,N/A,#sports,Mixed,Negative
+270,Daily walks ne stress kam kar diya hai.,non-hate,N/A,#health,Mixed,Positive
+271,Ye sarkar ka manifesto bas jhooth ka pulinda hai.,hate,N/A,#politics,Mixed,Negative
+272,I think virtual classrooms are innovative.,non-hate,N/A,#education,English,Positive
+273,Tum jaise log hi equality ka natak karte ho.,hate,Be real.,#social issues,Mixed,Negative
+274,Ye new ice cream flavor refreshing hai.,non-hate,N/A,#food,Mixed,Positive
+275,Ye log apne culture ke naam pe hate spread karte hain.,hate,N/A,#nationalism,Mixed,Negative
+276,Aaj ka weather picnic ke liye ideal tha.,non-hate,N/A,#daily life,Mixed,Positive
+277,Tumhare jaise log hi social media ko garbage banate ho.,hate,Keep it clean.,#social media,Mixed,Negative
+278,This gadget ka design sleek aur practical hai.,non-hate,N/A,#technology,Mixed,Positive
+279,Ye singer ka latest track flop aur soulless hai.,hate,N/A,#music,Mixed,Negative
+280,Mujhe lagta hai ki public transport eco-friendly hai.,non-hate,N/A,#environment,Mixed,Positive
+281,Ye log bas apne ego ke liye society ko divide karte hain.,hate,N/A,#social issues,Mixed,Negative
+282,Peer discussion ne concept clear kar diya.,non-hate,N/A,#education,Mixed,Positive
+283,Ye politicians ka double standard expose hona chahiye.,hate,N/A,#politics,Mixed,Negative
+284,I think smart homes are the future.,non-hate,N/A,#technology,English,Positive
+285,Tum jaise log hi communal harmony ko khatre mein dalte ho.,hate,Peace matters.,#religion,Mixed,Negative
+286,Aaj ka workout challenging but rewarding tha.,non-hate,N/A,#fitness,Mixed,Positive
+287,Ye influencers ka paid content trust nahi dilata.,hate,N/A,#social media,Mixed,Negative
+288,Ye new laptop ka performance top-notch hai.,non-hate,N/A,#technology,Mixed,Positive
+289,"Ye team ka coordination zero hai, haar deserve karte hain.",hate,N/A,#sports,Mixed,Negative
+290,Home remedies ne cold se relief diya.,non-hate,N/A,#health,Mixed,Positive
+291,Ye government ka control freak attitude democracy ko khatam karega.,hate,N/A,#politics,Mixed,Negative
+292,I think podcasts broaden perspectives.,non-hate,N/A,#education,English,Positive
+293,Tum jaise log hi gender equality ko hypocrisy banate ho.,hate,Be fair.,#gender,Mixed,Negative
+294,Ye bakery ka bread fresh aur tasty tha.,non-hate,N/A,#food,Mixed,Positive
+295,"Ye log desh ke resources loot rahe hain, traitors!",hate,N/A,#nationalism,Mixed,Negative
+296,Aaj ka metro ride hassle-free tha.,non-hate,N/A,#daily life,Mixed,Positive
+297,Tumhare jaise log hi online arguments ko personal banate ho.,hate,Debate respectfully.,#social media,Mixed,Negative
+298,This app ka AI feature impressive hai.,non-hate,N/A,#technology,Mixed,Positive
+299,Ye film ka editing shoddy aur amateurish tha.,hate,N/A,#movies,Mixed,Negative
+300,Mujhe lagta hai ki rainwater harvesting zaroori hai.,non-hate,N/A,#environment,Mixed,Positive
+301,"Ye neta ka promise fake hai, voters ko bewakoof banate hain.",hate,N/A,#politics,Mixed,Negative
+302,Tum jaise log hi divisive politics ko support karte ho.,hate,Unity is our strength.,#politics,Mixed,Negative
+303,Ye actress ka acting overrated aur cringe hai.,hate,N/A,#entertainment,Mixed,Negative
+304,Ye song ka lyrics bakwas aur meaningless hai.,hate,N/A,#music,Mixed,Negative
+305,Tum log bas apne gande kapde public mein dry karte ho.,hate,N/A,#daily life,Mixed,Negative
+306,"Ye log traffic rules ko ignore karte hain, accidents hote hain.",hate,N/A,#daily life,Mixed,Negative
+307,Ye woke log bas hypocrisy spread karte hain.,hate,N/A,#social issues,Mixed,Negative
+308,Ye religious fanatics peace destroy karte hain.,hate,N/A,#religion,Mixed,Negative
+309,Ye phone ka camera overhyped aur average hai.,hate,N/A,#technology,Mixed,Negative
+310,Tum jaise log hi digital payments ko risky bolte ho.,hate,Cashless is convenient.,#technology,Mixed,Negative
+311,"Ye bowler match haarne ka reason hai, useless!",hate,N/A,#sports,Mixed,Negative
+312,Ye sports channel ka coverage biased aur boring hai.,hate,N/A,#sports,Mixed,Negative
+313,Tumhare jaise log hi smoking ko cool samajhte ho.,hate,Quit smoking for health.,#health,Mixed,Negative
+314,Ye clinic ka staff rude aur unprofessional hai.,hate,N/A,#health,Mixed,Negative
+315,Ye professor ka lecture dry aur outdated hai.,hate,N/A,#education,Mixed,Negative
+316,Tum jaise log hi exams mein cheating ko justify karte ho.,hate,Honesty is the best approach.,#education,Mixed,Negative
+317,"Ye log bas plastic use karte hain, environment ka dhyan nahi.",hate,N/A,#environment,Mixed,Negative
+318,Tum jaise log hi global warming ko hoax kehte ho.,hate,Science proves it‘«÷s real.,#environment,Mixed,Negative
+319,"Ye log bas apne desh ko superior bolte hain, arrogant!",hate,N/A,#nationalism,Mixed,Negative
+320,Tumhare jaise log hi foreign culture ko blindly follow karte ho.,hate,Value our roots.,#nationalism,Mixed,Negative
+321,Ye sarkar ka budget middle class ko ignore karta hai.,hate,N/A,#politics,Mixed,Negative
+322,Tum jaise log hi propaganda ko truth samajhte ho.,hate,Check facts first.,#politics,Mixed,Negative
+323,Ye director ka movie flop ka recipe hai.,hate,N/A,#movies,Mixed,Negative
+324,Ye influencer ka content shallow aur irritating hai.,hate,N/A,#social media,Mixed,Negative
+325,"Tum log bas apne AC chalate ho, electricity waste hoti hai.",hate,N/A,#daily life,Mixed,Negative
+326,"Ye log metro mein push karte hain, manners zero.",hate,N/A,#daily life,Mixed,Negative
+327,Ye equality warriors bas noise create karte hain.,hate,N/A,#social issues,Mixed,Negative
+328,Ye dowry system supporters backward aur greedy hain.,hate,N/A,#social issues,Mixed,Negative
+329,Ye laptop ka performance sluggish aur disappointing hai.,hate,N/A,#technology,Mixed,Negative
+330,Tum jaise log hi social media ko toxic banate ho.,hate,Spread positivity online.,#technology,Mixed,Negative
+331,Ye captain ka decision team ko barbaad kar diya.,hate,N/A,#sports,Mixed,Negative
+332,Ye fanbase ka behavior toxic aur embarrassing hai.,hate,N/A,#sports,Mixed,Negative
+333,Tumhare jaise log hi diet fads ko follow karte ho.,hate,Eat balanced meals.,#health,Mixed,Negative
+334,Ye dentist bas unnecessary treatments suggest karta hai.,hate,N/A,#health,Mixed,Negative
+335,Ye college ka syllabus impractical aur useless hai.,hate,N/A,#education,Mixed,Negative
+336,Tum jaise log hi marks ko talent samajhte ho.,hate,Skills matter more.,#education,Mixed,Negative
+337,Ye log bas apne factories se pollution failate hain.,hate,N/A,#environment,Mixed,Negative
+338,Tum jaise log hi recycling ko time waste kehte ho.,hate,Recycling helps the planet.,#environment,Mixed,Negative
+339,"Ye log bas apne caste pride mein ghoomte hain, unity nahi.",hate,N/A,#nationalism,Mixed,Negative
+340,Tumhare jaise log hi western trends ko cool samajhte ho.,hate,Our culture is enough.,#nationalism,Mixed,Negative
+341,Ye politician ka agenda selfish aur destructive hai.,hate,N/A,#politics,Mixed,Negative
+342,Tum jaise log hi fake news ko viral karte ho.,hate,Verify before sharing.,#politics,Mixed,Negative
+343,Ye TV serial ka plot repetitive aur dumb hai.,hate,N/A,#entertainment,Mixed,Negative
+344,Ye celeb ka attitude arrogant aur fake hai.,hate,N/A,#entertainment,Mixed,Negative
+345,Tum log bas apne loud music se disturb karte ho.,hate,N/A,#daily life,Mixed,Negative
+346,"Ye log parks mein littering karte hain, shameless!",hate,N/A,#daily life,Mixed,Negative
+347,Ye vegan activists bas preachy aur annoying hain.,hate,N/A,#social issues,Mixed,Negative
+348,Ye patriarchy defenders outdated aur toxic hain.,hate,N/A,#gender,Mixed,Negative
+349,Ye earphones ka sound quality cheap aur pathetic hai.,hate,N/A,#technology,Mixed,Negative
+350,Tum jaise log hi gaming ko addiction banate ho.,hate,Play in moderation.,#technology,Mixed,Negative
+351,Ye goalkeeper ka mistake unforgivable aur costly tha.,hate,N/A,#sports,Mixed,Negative
+352,Ye tournament ka scheduling unfair aur chaotic hai.,hate,N/A,#sports,Mixed,Negative
+353,Tumhare jaise log hi fast food ko healthy bolte ho.,hate,Cook fresh meals.,#health,Mixed,Negative
+354,Ye medical ads bas scam aur misleading hain.,hate,N/A,#health,Mixed,Negative
+355,Ye coaching center ka teaching overhyped aur average hai.,hate,N/A,#education,Mixed,Negative
+356,Tum jaise log hi tuition ko education samajhte ho.,hate,Self-study is powerful.,#education,Mixed,Negative
+357,Ye log bas apne cars se air pollution badhate hain.,hate,N/A,#environment,Mixed,Negative
+358,Tum jaise log hi solar energy ko impractical kehte ho.,hate,Renewables are viable.,#environment,Mixed,Negative
+359,Ye log bas apne regional bias ko promote karte hain.,hate,N/A,#nationalism,Mixed,Negative
+360,Tumhare jaise log hi Indian values ko downgrade karte ho.,hate,Respect our traditions.,#nationalism,Mixed,Negative
+361,Ye leader ka vision narrow aur uninspiring hai.,hate,N/A,#politics,Mixed,Negative
+362,Tum jaise log hi rallies mein violence karte ho.,hate,Peaceful protests work.,#politics,Mixed,Negative
+363,Ye show ka humor forced aur lame hai.,hate,N/A,#entertainment,Mixed,Negative
+364,Ye dancer ka performance overhyped aur sloppy tha.,hate,N/A,#entertainment,Mixed,Negative
+365,Tum log bas apne late night parties se neighbors ko disturb karte ho.,hate,N/A,#daily life,Mixed,Negative
+366,"Ye log bas apne dogs ko bark karne dete hain, irritating!",hate,N/A,#daily life,Mixed,Negative
+367,Ye NGO activists bas funding ke liye drama karte hain.,hate,N/A,#social issues,Mixed,Negative
+368,Ye anti-reservation log selfish aur privileged hain.,hate,N/A,#social issues,Mixed,Negative
+369,Ye smartwatch ka battery life rubbish aur unreliable hai.,hate,N/A,#technology,Mixed,Negative
+370,Tum jaise log hi online trolling ko fun samajhte ho.,hate,Be kind online.,#technology,Mixed,Negative
+371,Ye striker ka shot selection poor aur wasteful tha.,hate,N/A,#sports,Mixed,Negative
+372,Ye referee ka attitude arrogant aur unprofessional hai.,hate,N/A,#sports,Mixed,Negative
+373,Tumhare jaise log hi sleep ko overrated kehte ho.,hate,Rest is essential.,#health,Mixed,Negative
+374,Ye fitness influencer ka advice generic aur useless hai.,hate,N/A,#health,Mixed,Negative
+375,Ye school ka discipline system harsh aur outdated hai.,hate,N/A,#education,Mixed,Negative
+376,Tum jaise log hi rote learning ko best samajhte ho.,hate,Learn creatively.,#education,Mixed,Negative
+377,Ye log bas apne waste ko rivers mein dump karte hain.,hate,N/A,#environment,Mixed,Negative
+378,Tum jaise log hi green tech ko costly bolte ho.,hate,Invest in the future.,#environment,Mixed,Negative
+379,Ye log bas apne state pride mein national unity bhool jate hain.,hate,N/A,#nationalism,Mixed,Negative
+380,Tumhare jaise log hi patriotism ko show-off samajhte ho.,hate,Love your country silently.,#nationalism,Mixed,Negative
+381,Ye sarkar ka law citizens ko harass karta hai.,hate,N/A,#politics,Mixed,Negative
+382,Tum jaise log hi nepotism ko politics mein defend karte ho.,hate,Merit should rule.,#politics,Mixed,Negative
+383,Ye movie ka climax predictable aur boring tha.,hate,N/A,#movies,Mixed,Negative
+384,Ye singer ka live show flat aur disappointing tha.,hate,N/A,#music,Mixed,Negative
+385,Tum log bas apne selfie obsession se time waste karte ho.,hate,N/A,#daily life,Mixed,Negative
+386,"Ye log public mein shouting karte hain, decency nahi.",hate,N/A,#daily life,Mixed,Negative
+387,"Ye climate activists bas lectures dete hain, action nahi.",hate,N/A,#environment,Mixed,Negative
+388,Ye secularism supporters bas religion ko insult karte hain.,hate,N/A,#religion,Mixed,Negative
+389,Ye app ka subscription overpriced aur useless hai.,hate,N/A,#technology,Mixed,Negative
+390,Tum jaise log hi tech updates ko overhyped bolte ho.,hate,Innovation drives progress.,#technology,Mixed,Negative
+391,Ye team ka defense weak aur embarrassing hai.,hate,N/A,#sports,Mixed,Negative
+392,Ye commentator ka analysis shallow aur biased hai.,hate,N/A,#sports,Mixed,Negative
+393,Tumhare jaise log hi sugar ko healthy samajhte ho.,hate,Cut sugar intake.,#health,Mixed,Negative
+394,Ye hospital ka hygiene poor aur risky hai.,hate,N/A,#health,Mixed,Negative
+395,Ye online course ka content outdated aur repetitive hai.,hate,N/A,#education,Mixed,Negative
+396,Tum jaise log hi degree ko success samajhte ho.,hate,Skills over paper.,#education,Mixed,Negative
+397,Ye log bas apne ACs se ozone layer khatam karte hain.,hate,N/A,#environment,Mixed,Negative
+398,Tum jaise log hi eco-products ko gimmick kehte ho.,hate,They‘«÷re practical.,#environment,Mixed,Negative
+399,"Ye log bas apne dialect ko force karte hain, irritating!",hate,N/A,#nationalism,Mixed,Negative
+400,Tumhare jaise log hi unity ko divisive politics se ruin karte ho.,hate,United we stand.,#nationalism,Mixed,Negative
+401,Mujhe ye new law practical aur helpful lagta hai.,non-hate,N/A,#politics,Mixed,Positive
+402,I think voting awareness can improve democracy.,non-hate,N/A,#politics,English,Positive
+403,Ye film ka cinematography stunning aur artistic tha.,non-hate,N/A,#movies,Mixed,Positive
+404,Mujhe ye rapper ka flow energetic lagta hai.,non-hate,N/A,#music,Mixed,Positive
+405,Aaj ka breeze refreshing aur calming tha.,non-hate,N/A,#daily life,Mixed,Positive
+406,Chai ka taste rainy days mein perfect lagta hai.,non-hate,N/A,#food,Mixed,Positive
+407,Diversity makes our society stronger.,non-hate,N/A,#social issues,English,Positive
+408,Mujhe lagta hai ki harmony among religions zaroori hai.,non-hate,N/A,#religion,Mixed,Positive
+409,Ye tablet ka speed impressive aur smooth hai.,non-hate,N/A,#technology,Mixed,Positive
+410,I think drones can revolutionize delivery services.,non-hate,N/A,#technology,English,Positive
+411,Ye game ka last over thrilling aur unpredictable tha.,non-hate,N/A,#sports,Mixed,Positive
+412,Mujhe ye runner ka stamina motivating lagta hai.,non-hate,N/A,#sports,Mixed,Positive
+413,Morning walks ne meri routine ko better bana diya.,non-hate,N/A,#health,Mixed,Positive
+414,Hydration is essential for a healthy lifestyle.,non-hate,N/A,#health,English,Positive
+415,Ye new teaching method engaging aur effective hai.,non-hate,N/A,#education,Mixed,Positive
+416,Libraries encourage lifelong learning.,non-hate,N/A,#education,English,Positive
+417,Solar panels ne electricity bills kam kar diye.,non-hate,N/A,#environment,Mixed,Positive
+418,I believe in upcycling for sustainable living.,non-hate,N/A,#environment,English,Positive
+419,India ka history inspiring aur vast hai.,non-hate,N/A,#nationalism,Mixed,Positive
+420,Cultural exchange programs build understanding.,non-hate,N/A,#nationalism,English,Positive
+421,Ye sarkar ka focus education pe promising hai.,non-hate,N/A,#politics,Mixed,Positive
+422,I think grassroots leaders can bring real change.,non-hate,N/A,#politics,English,Positive
+423,Ye web series ka suspense gripping aur fresh tha.,non-hate,N/A,#entertainment,Mixed,Positive
+424,Mujhe ye guitarist ka skill mind-blowing lagta hai.,non-hate,N/A,#music,Mixed,Positive
+425,Aaj ka sunset peaceful aur beautiful tha.,non-hate,N/A,#daily life,Mixed,Positive
+426,Fresh fruits ka juice energizing aur tasty hai.,non-hate,N/A,#food,Mixed,Positive
+427,Empowering women benefits the whole community.,non-hate,N/A,#gender,English,Positive
+428,Mujhe lagta hai ki communal unity zaroori hai.,non-hate,N/A,#social issues,Mixed,Positive
+429,Ye camera ka zoom feature amazing aur clear hai.,non-hate,N/A,#technology,Mixed,Positive
+430,I think 5G will transform connectivity.,non-hate,N/A,#technology,English,Positive
+431,Ye championship ka finale epic aur memorable tha.,non-hate,N/A,#sports,Mixed,Positive
+432,Mujhe ye swimmer ka discipline inspiring lagta hai.,non-hate,N/A,#sports,Mixed,Positive
+433,Deep breathing ne meri anxiety ko control kiya.,non-hate,N/A,#health,Mixed,Positive
+434,Sleep improves productivity and mood.,non-hate,N/A,#health,English,Positive
+435,Ye practical classes ne learning ko fun bana diya.,non-hate,N/A,#education,Mixed,Positive
+436,Education opens doors to endless opportunities.,non-hate,N/A,#education,English,Positive
+437,Eco-friendly bags ne plastic use kam kar diya.,non-hate,N/A,#environment,Mixed,Positive
+438,I think wind energy can power our future.,non-hate,N/A,#environment,English,Positive
+439,India ka folk art unique aur vibrant hai.,non-hate,N/A,#nationalism,Mixed,Positive
+440,National unity is our biggest asset.,non-hate,N/A,#nationalism,English,Positive
+441,Ye rural scheme ne villages ko uplift kiya.,non-hate,N/A,#politics,Mixed,Positive
+442,I think debates help refine political ideas.,non-hate,N/A,#politics,English,Positive
+443,Ye short film ka message deep aur impactful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+444,Mujhe ye poet ka style soulful lagta hai.,non-hate,N/A,#literature,Mixed,Positive
+445,Aaj ka picnic relaxing aur enjoyable tha.,non-hate,N/A,#daily life,Mixed,Positive
+446,Street vendors ka food authentic aur delicious hai.,non-hate,N/A,#food,Mixed,Positive
+447,Inclusion creates a fairer society.,non-hate,N/A,#social issues,English,Positive
+448,Mujhe lagta hai ki youth activism zaroori hai.,non-hate,N/A,#social issues,Mixed,Positive
+449,Ye VR headset ka experience immersive aur cool hai.,non-hate,N/A,#technology,Mixed,Positive
+450,I think robotics can boost industrial growth.,non-hate,N/A,#technology,English,Positive
+451,Ye relay race ka teamwork fantastic tha.,non-hate,N/A,#sports,Mixed,Positive
+452,Mujhe ye cricketer ka consistency admirable lagta hai.,non-hate,N/A,#sports,Mixed,Positive
+453,Herbal tea ne meri digestion improve ki hai.,non-hate,N/A,#health,Mixed,Positive
+454,Exercise boosts mental clarity.,non-hate,N/A,#health,English,Positive
+455,Ye workshop ne skills ko polish kiya.,non-hate,N/A,#education,Mixed,Positive
+456,Mentorship shapes future leaders.,non-hate,N/A,#education,English,Positive
+457,Cycle-to-work ne pollution aur costs kam kiye.,non-hate,N/A,#environment,Mixed,Positive
+458,I believe in protecting wildlife habitats.,non-hate,N/A,#environment,English,Positive
+459,India ka textile heritage world-class hai.,non-hate,N/A,#nationalism,Mixed,Positive
+460,Pride in our achievements unites us.,non-hate,N/A,#nationalism,English,Positive
+461,Ye tax reform ne simplicity badha di hai.,non-hate,N/A,#politics,Mixed,Positive
+462,I think civic engagement strengthens governance.,non-hate,N/A,#politics,English,Positive
+463,Ye comedy special hilarious aur clever tha.,non-hate,N/A,#entertainment,Mixed,Positive
+464,Mujhe ye photographer ka vision artistic lagta hai.,non-hate,N/A,#art,Mixed,Positive
+465,Aaj ka morning jog invigorating tha.,non-hate,N/A,#daily life,Mixed,Positive
+466,Home-cooked meals ka comfort unbeatable hai.,non-hate,N/A,#food,Mixed,Positive
+467,Equal rights lead to progress for all.,non-hate,N/A,#social issues,English,Positive
+468,Mujhe lagta hai ki charity impactful hai.,non-hate,N/A,#social issues,Mixed,Positive
+469,Ye noise-canceling headphones ka quality top-notch hai.,non-hate,N/A,#technology,Mixed,Positive
+470,I think cloud computing saves resources.,non-hate,N/A,#technology,English,Positive
+471,Ye friendly match ka vibe positive aur fun tha.,non-hate,N/A,#sports,Mixed,Positive
+472,Mujhe ye gymnast ka flexibility amazing lagta hai.,non-hate,N/A,#sports,Mixed,Positive
+473,Stretching ne meri muscle stiffness kam ki.,non-hate,N/A,#health,Mixed,Positive
+474,Mindfulness reduces daily stress.,non-hate,N/A,#health,English,Positive
+475,Ye science project ne curiosity badha di.,non-hate,N/A,#education,Mixed,Positive
+476,Free education empowers communities.,non-hate,N/A,#education,English,Positive
+477,Public transport ne fuel consumption kam kiya.,non-hate,N/A,#environment,Mixed,Positive
+478,I believe in reforestation for climate action.,non-hate,N/A,#environment,English,Positive
+479,India ka literature rich aur diverse hai.,non-hate,N/A,#nationalism,Mixed,Positive
+480,Our resilience defines our national spirit.,non-hate,N/A,#nationalism,English,Positive
+481,Ye healthcare policy ne access improve kiya.,non-hate,N/A,#politics,Mixed,Positive
+482,I think transparency builds public trust.,non-hate,N/A,#politics,English,Positive
+483,Ye theater play ka acting powerful aur moving tha.,non-hate,N/A,#entertainment,Mixed,Positive
+484,Mujhe ye singer ka passion authentic lagta hai.,non-hate,N/A,#music,Mixed,Positive
+485,Aaj ka rain cozy aur refreshing tha.,non-hate,N/A,#daily life,Mixed,Positive
+486,Local spices ne dish ko flavorful bana diya.,non-hate,N/A,#food,Mixed,Positive
+487,Collaboration fosters social harmony.,non-hate,N/A,#social issues,English,Positive
+488,Mujhe lagta hai ki education equality zaroori hai.,non-hate,N/A,#education,Mixed,Positive
+489,Ye fitness tracker ne goals achieve karne mein help ki.,non-hate,N/A,#technology,Mixed,Positive
+490,I think AI assistants make life easier.,non-hate,N/A,#technology,English,Positive
+491,Ye sports camp ne kids ko active rakha.,non-hate,N/A,#sports,Mixed,Positive
+492,Mujhe ye player ka teamwork inspiring lagta hai.,non-hate,N/A,#sports,Mixed,Positive
+493,Home remedies ne meri cold ko thik kiya.,non-hate,N/A,#health,Mixed,Positive
+494,Outdoor activities boost well-being.,non-hate,N/A,#health,English,Positive
+495,Ye debate club ne confidence boost kiya.,non-hate,N/A,#education,Mixed,Positive
+496,Skill-based learning prepares us for jobs.,non-hate,N/A,#education,English,Positive
+497,Organic farming ne soil health improve ki.,non-hate,N/A,#environment,Mixed,Positive
+498,I believe in reducing carbon emissions.,non-hate,N/A,#environment,English,Positive
+499,India ka startup scene innovative aur exciting hai.,non-hate,N/A,#nationalism,Mixed,Positive
+500,Our traditions connect us to our roots.,non-hate,N/A,#nationalism,English,Positive
+501,"Ye neta log bas jhooth bolte hain, public ko bewakoof banate hain.",hate,N/A,#politics,Mixed,Negative
+502,Aaj ka budget announcement growth ke liye promising hai.,non-hate,N/A,#politics,Mixed,Positive
+503,Tum jaise log politics mein corruption badhate ho.,hate,We need honest leaders.,#politics,Mixed,Negative
+504,New tax reforms se middle class ko relief milega.,non-hate,N/A,#politics,Mixed,Positive
+505,"Ye ministers incompetent hain, kuch kaam nahi karte.",hate,N/A,#politics,Mixed,Negative
+506,"Ye reality show ka concept bakwas hai, pura scripted.",hate,N/A,#entertainment,Mixed,Negative
+507,"Kal ka movie premiere zabardast tha, must-watch!",non-hate,N/A,#movies,Mixed,Positive
+508,"Ye actors overrated hain, talent zero.",hate,N/A,#entertainment,Mixed,Negative
+509,"This song‘«÷s beats are fire, playlist mein add karo!",non-hate,N/A,#music,English,Positive
+510,Ye singers autotune ke bina kuch nahi hain.,hate,N/A,#music,Mixed,Negative
+511,Aaj ka weather thanda aur pleasant hai.,non-hate,N/A,#daily life,Mixed,Positive
+512,"Ye log public places pe thookte hain, ganda karte hain.",hate,N/A,#daily life,Mixed,Negative
+513,Morning walk se din ki shuruaat fresh hoti hai.,non-hate,N/A,#daily life,Mixed,Positive
+514,"Ye neighbors ka dog raat bhar bhaukta hai, irritating!",hate,N/A,#daily life,Mixed,Negative
+515,Ye religious fanatics peace destroy karte hain.,hate,N/A,#social issues,Mixed,Negative
+516,"Diversity ko celebrate karna chahiye, hate nahi.",non-hate,N/A,#social issues,Mixed,Positive
+517,Ye log bas caste ke naam pe fight karte hain.,hate,N/A,#social issues,Mixed,Negative
+518,Education se social barriers break hote hain.,non-hate,N/A,#social issues,Mixed,Positive
+519,"Ye new gadget ka price justified nahi hai, overpriced.",hate,N/A,#technology,Mixed,Negative
+520,Ye app ka update user experience improve karta hai.,non-hate,N/A,#technology,Mixed,Positive
+521,"Ye companies bas data steal karte hain, privacy gone.",hate,N/A,#technology,Mixed,Negative
+522,5G rollout se internet speed next level hogi.,non-hate,N/A,#technology,Mixed,Positive
+523,Ye player ka attitude team ko down karta hai.,hate,N/A,#sports,Mixed,Negative
+524,India ka hockey comeback inspiring tha!,non-hate,N/A,#sports,Mixed,Positive
+525,"Ye referees biased decisions dete hain, game spoil.",hate,N/A,#sports,Mixed,Negative
+526,Workout se energy levels boost hote hain.,non-hate,N/A,#health,Mixed,Positive
+527,Ye junk food khane walon ko health ka khayal nahi.,hate,N/A,#health,Mixed,Negative
+528,Home remedies se minor ailments thik ho jate hain.,non-hate,N/A,#health,Mixed,Positive
+529,"Ye private hospitals loot machate hain, affordable nahi.",hate,N/A,#health,Mixed,Negative
+530,Online courses se learning accessible ho gaya hai.,non-hate,N/A,#education,Mixed,Positive
+531,Ye school system bas marks pe focus karta hai.,hate,N/A,#education,Mixed,Negative
+532,Practical skills sikhane se students confident bante hain.,non-hate,N/A,#education,Mixed,Positive
+533,"Ye log recycling ignore karte hain, planet suffer karta.",hate,N/A,#environment,Mixed,Negative
+534,Solar energy se electricity bills kam hote hain.,non-hate,N/A,#environment,Mixed,Positive
+535,"Ye factories pollution badhate hain, strict laws chahiye.",hate,N/A,#environment,Mixed,Negative
+536,India ka heritage world ko inspire karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+537,Ye anti-India slogans tolerate nahi karne chahiye.,hate,N/A,#nationalism,Mixed,Negative
+538,Ye foreign influence culture ko dilute karta hai.,hate,N/A,#nationalism,Mixed,Negative
+539,Desh ka unity in diversity strength hai.,non-hate,N/A,#nationalism,Mixed,Positive
+540,Ye corrupt officials system ko khokhla karte hain.,hate,N/A,#politics,Mixed,Negative
+541,"Voting se democracy strong hoti hai, participate karo.",non-hate,N/A,#politics,Mixed,Positive
+542,Ye TV debates bas shouting matches hote hain.,hate,N/A,#entertainment,Mixed,Negative
+543,Ye short film ka message powerful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+544,Aaj ka commute smooth aur hassle-free tha.,non-hate,N/A,#daily life,Mixed,Positive
+545,Ye rash drivers roads ko dangerous banate hain.,hate,N/A,#daily life,Mixed,Negative
+546,Ye patriarchy supporters equality ko rokna chahte hain.,hate,N/A,#gender,Mixed,Negative
+547,Women empowerment se society grow karti hai.,non-hate,N/A,#gender,Mixed,Positive
+548,Ye internet trolls bas negativity spread karte hain.,hate,N/A,#technology,Mixed,Negative
+549,Cloud storage se data management easy ho gaya.,non-hate,N/A,#technology,Mixed,Positive
+550,Ye commentators biased opinions dete hain.,hate,N/A,#sports,Mixed,Negative
+551,Ye tournament ka finale thrilling tha!,non-hate,N/A,#sports,Mixed,Positive
+552,Ye quacks fake treatments se logon ko loot te hain.,hate,N/A,#health,Mixed,Negative
+553,Healthy diet se immunity strong hoti hai.,non-hate,N/A,#health,Mixed,Positive
+554,Ye exam system students ko stress deta hai.,hate,N/A,#education,Mixed,Negative
+555,Group studies se concepts clear hote hain.,non-hate,N/A,#education,Mixed,Positive
+556,Ye deforestation ke wajah se climate change badh raha.,hate,N/A,#environment,Mixed,Negative
+557,Rainwater harvesting se water crisis kam ho sakti hai.,non-hate,N/A,#environment,Mixed,Positive
+558,India ka startup ecosystem global level pe compete karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+559,Ye regional parties bas vote bank ke liye kaam karte hain.,hate,N/A,#politics,Mixed,Negative
+560,Transparent policies se trust badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+561,Ye celebrity endorsements fake aur paid hote hain.,hate,N/A,#entertainment,Mixed,Negative
+562,Ye play ka direction flawless tha.,non-hate,N/A,#entertainment,Mixed,Positive
+563,"Ye garmi unbearable ho rahi hai, AC zaroori hai.",non-hate,N/A,#daily life,Mixed,Negative
+564,Ye litterbugs parks ko ganda karte hain.,hate,N/A,#daily life,Mixed,Negative
+565,Ye racist comments unacceptable hain.,hate,N/A,#social issues,Mixed,Negative
+566,Inclusion se community strong hoti hai.,non-hate,N/A,#social issues,Mixed,Positive
+567,Ye gaming laptops overpriced aur overhyped hain.,hate,N/A,#technology,Mixed,Negative
+568,Ye open-source software innovation ko support karta hai.,non-hate,N/A,#technology,Mixed,Positive
+569,Ye coach ka strategy team ko fail kar raha hai.,hate,N/A,#sports,Mixed,Negative
+570,Ye athlete ka dedication respect deserve karta hai.,non-hate,N/A,#sports,Mixed,Positive
+571,Ye expensive treatments middle class ke liye impossible hain.,hate,N/A,#health,Mixed,Negative
+572,Yoga se flexibility aur calm milta hai.,non-hate,N/A,#health,Mixed,Positive
+573,Ye professors outdated methods use karte hain.,hate,N/A,#education,Mixed,Negative
+574,Internships se practical exposure milta hai.,non-hate,N/A,#education,Mixed,Positive
+575,"Ye waste management zero hai, cities drown in garbage.",hate,N/A,#environment,Mixed,Negative
+576,Green initiatives se pollution control ho sakta hai.,non-hate,N/A,#environment,Mixed,Positive
+577,India ka army world-class discipline dikhaata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+578,Ye traitors desh ka naam kharab karte hain.,hate,N/A,#nationalism,Mixed,Negative
+579,Ye propaganda news channels public ko mislead karte hain.,hate,N/A,#politics,Mixed,Negative
+580,Citizen feedback se governance improve hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+581,Ye influencers ka content shallow aur repetitive hai.,hate,N/A,#entertainment,Mixed,Negative
+582,Ye book ka plot engaging aur unique tha.,non-hate,N/A,#entertainment,Mixed,Positive
+583,Aaj ka coffee date refreshing aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+584,Ye overpriced cafes quality nahi dete.,hate,N/A,#daily life,Mixed,Negative
+585,Ye orthodox log women ko oppress karte hain.,hate,N/A,#gender,Mixed,Negative
+586,Equal opportunities se talent shine karta hai.,non-hate,N/A,#gender,Mixed,Positive
+587,Ye hackers personal lives invade karte hain.,hate,N/A,#technology,Mixed,Negative
+588,AI tools se productivity double ho jati hai.,non-hate,N/A,#technology,Mixed,Positive
+589,Ye lazy teammates match haarne ka reason hain.,hate,N/A,#sports,Mixed,Negative
+590,Team spirit se impossible wins possible hote hain.,non-hate,N/A,#sports,Mixed,Positive
+591,Ye sugar-laden drinks health destroy karte hain.,hate,N/A,#health,Mixed,Negative
+592,Herbal teas se digestion better hota hai.,non-hate,N/A,#health,Mixed,Positive
+593,Ye college fees unjustified aur exploitative hain.,hate,N/A,#education,Mixed,Negative
+594,Scholarships se deserving students ko chance milta hai.,non-hate,N/A,#education,Mixed,Positive
+595,Ye illegal dumping rivers ko poison karta hai.,hate,N/A,#environment,Mixed,Negative
+596,Eco-friendly products se sustainability badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+597,India ka folk art vibrant aur beautiful hai.,non-hate,N/A,#nationalism,Mixed,Positive
+598,Ye globalization Indian traditions ko khatam kar raha.,hate,N/A,#nationalism,Mixed,Negative
+599,Ye power-hungry leaders desh ko divide karte hain.,hate,N/A,#politics,Mixed,Negative
+600,Grassroots movements se real change aata hai.,non-hate,N/A,#politics,Mixed,Positive
+601,Ye cringe ads entertainment ka maza kharab karte hain.,hate,N/A,#entertainment,Mixed,Negative
+602,Ye stand-up comedy show hilarious tha!,non-hate,N/A,#entertainment,Mixed,Positive
+603,Ye humid weather mood off kar deta hai.,non-hate,N/A,#daily life,Mixed,Negative
+604,Ye careless pedestrians accidents cause karte hain.,hate,N/A,#daily life,Mixed,Negative
+605,Ye judgmental log inclusivity ko ruin karte hain.,hate,N/A,#social issues,Mixed,Negative
+606,Mutual respect se society harmonious banta hai.,non-hate,N/A,#social issues,Mixed,Positive
+607,Ye outdated phones ab useless ho gaye hain.,hate,N/A,#technology,Mixed,Negative
+608,Wearable tech se fitness tracking easy ho gaya.,non-hate,N/A,#technology,Mixed,Positive
+609,Ye overpaid players effort nahi dalte.,hate,N/A,#sports,Mixed,Negative
+610,Ye underdog team ka win motivational tha!,non-hate,N/A,#sports,Mixed,Positive
+611,Ye unhygienic clinics infections spread karte hain.,hate,N/A,#health,Mixed,Negative
+612,Regular checkups se diseases prevent hote hain.,non-hate,N/A,#health,Mixed,Positive
+613,Ye lazy students class ka time waste karte hain.,hate,N/A,#education,Mixed,Negative
+614,Peer learning se teamwork skills develop hote hain.,non-hate,N/A,#education,Mixed,Positive
+615,Ye noise pollution city life ko unbearable banata hai.,hate,N/A,#environment,Mixed,Negative
+616,Public awareness se environmental protection badhta hai.,non-hate,N/A,#environment,Mixed,Positive
+617,India ka unity desh ka biggest asset hai.,non-hate,N/A,#nationalism,Mixed,Positive
+618,Ye divisive forces national progress ko rokna chahte hain.,hate,N/A,#nationalism,Mixed,Negative
+619,Ye fake news democracy ko undermine karta hai.,hate,N/A,#politics,Mixed,Negative
+620,Public consultations se policies effective bante hain.,non-hate,N/A,#politics,Mixed,Positive
+621,Ye flop movies paisa barbaad karte hain.,hate,N/A,#entertainment,Mixed,Negative
+622,Ye dance performance energetic aur captivating tha.,non-hate,N/A,#entertainment,Mixed,Positive
+623,Aaj ka sunset peaceful aur beautiful tha.,non-hate,N/A,#daily life,Mixed,Positive
+624,Ye rude shopkeepers customers ko bhaga dete hain.,hate,N/A,#daily life,Mixed,Negative
+625,Ye narrow-minded log progress ke against hain.,hate,N/A,#social issues,Mixed,Negative
+626,Open dialogue se misunderstandings kam hote hain.,non-hate,N/A,#social issues,Mixed,Positive
+627,Ye buggy software frustration badhata hai.,hate,N/A,#technology,Mixed,Negative
+628,Smartphones se multitasking efficient ho gaya.,non-hate,N/A,#technology,Mixed,Positive
+629,Ye arrogant athletes fans ka respect lose karte hain.,hate,N/A,#sports,Mixed,Negative
+630,Ye sportsmanship spirit game ko enjoyable banata hai.,non-hate,N/A,#sports,Mixed,Positive
+631,Ye oily food digestion problems deta hai.,hate,N/A,#health,Mixed,Negative
+632,Balanced meals se overall wellness improve hoti hai.,non-hate,N/A,#health,Mixed,Positive
+633,Ye strict rules creativity ko dabate hain.,hate,N/A,#education,Mixed,Negative
+634,Creative projects se students ka interest badhta hai.,non-hate,N/A,#education,Mixed,Positive
+635,Ye overpopulation resources pe strain dalta hai.,hate,N/A,#environment,Mixed,Negative
+636,Wildlife protection se ecosystem balance hota hai.,non-hate,N/A,#environment,Mixed,Positive
+637,India ka youth future ka powerhouse hai.,non-hate,N/A,#nationalism,Mixed,Positive
+638,Ye youth ko mislead karne wale leaders corrupt hain.,hate,N/A,#nationalism,Mixed,Negative
+639,Ye dynastic politics merit ko ignore karti hai.,hate,N/A,#politics,Mixed,Negative
+640,Local governance se community needs address hote hain.,non-hate,N/A,#politics,Mixed,Positive
+641,Ye overhyped shows disappointment dete hain.,hate,N/A,#entertainment,Mixed,Negative
+642,Ye art gallery visit thought-provoking tha.,non-hate,N/A,#entertainment,Mixed,Positive
+643,Aaj ka rain relaxing aur refreshing tha.,non-hate,N/A,#daily life,Mixed,Positive
+644,Ye waterlogging roads ko chaotic banata hai.,hate,N/A,#daily life,Mixed,Negative
+645,Ye classist attitudes equality ko challenge karte hain.,hate,N/A,#social issues,Mixed,Negative
+646,Social justice se fair society banta hai.,non-hate,N/A,#social issues,Mixed,Positive
+647,Ye slow internet productivity kill karta hai.,hate,N/A,#technology,Mixed,Negative
+648,Smart cities se urban living better hoga.,non-hate,N/A,#technology,Mixed,Positive
+649,Ye cheating scandals sports ka mazaa kharab karte hain.,hate,N/A,#sports,Mixed,Negative
+650,Ye comeback story fans ke liye emotional thi.,non-hate,N/A,#sports,Mixed,Positive
+651,Ye sedentary lifestyle diseases invite karta hai.,hate,N/A,#health,Mixed,Negative
+652,Outdoor activities se physical health boost hoti hai.,non-hate,N/A,#health,Mixed,Positive
+653,Ye boring lectures students ko demotivate karte hain.,hate,N/A,#education,Mixed,Negative
+654,Interactive classes se engagement badhta hai.,non-hate,N/A,#education,Mixed,Positive
+655,Ye coal plants air quality kharab karte hain.,hate,N/A,#environment,Mixed,Negative
+656,Wind energy se carbon emissions kam honge.,non-hate,N/A,#environment,Mixed,Positive
+657,India ka literature rich aur inspiring hai.,non-hate,N/A,#nationalism,Mixed,Positive
+658,Ye westernization Indian values ko erode karta hai.,hate,N/A,#nationalism,Mixed,Negative
+659,Ye vote-buying elections ko corrupt karta hai.,hate,N/A,#politics,Mixed,Negative
+660,Digital voting se accessibility badhegi.,non-hate,N/A,#politics,Mixed,Positive
+661,Ye loud music events neighbors ko disturb karte hain.,hate,N/A,#entertainment,Mixed,Negative
+662,Ye live concert ka vibe unbeatable tha!,non-hate,N/A,#entertainment,Mixed,Positive
+663,Aaj ka breakfast nutritious aur tasty tha.,non-hate,N/A,#daily life,Mixed,Positive
+664,Ye unhygienic street vendors health risk hain.,hate,N/A,#daily life,Mixed,Negative
+665,Ye elitist log common man ka struggle nahi samajhte.,hate,N/A,#social issues,Mixed,Negative
+666,Empathy se human connections strong hote hain.,non-hate,N/A,#social issues,Mixed,Positive
+667,Ye cheap gadgets durability mein fail hote hain.,hate,N/A,#technology,Mixed,Negative
+668,IoT devices se home automation seamless ho gaya.,non-hate,N/A,#technology,Mixed,Positive
+669,Ye overhyped teams expectations meet nahi karte.,hate,N/A,#sports,Mixed,Negative
+670,Ye grassroots sports talent nurture karte hain.,non-hate,N/A,#sports,Mixed,Positive
+671,Ye sleep deprivation mental health ko ruin karta hai.,hate,N/A,#health,Mixed,Negative
+672,Good sleep se focus aur energy badhti hai.,non-hate,N/A,#health,Mixed,Positive
+673,Ye outdated syllabus real-world se disconnect hai.,hate,N/A,#education,Mixed,Negative
+674,Extracurriculars se personality development hota hai.,non-hate,N/A,#education,Mixed,Positive
+675,Ye chemical farming soil fertility ko khatam karta hai.,hate,N/A,#environment,Mixed,Negative
+676,Organic farming se healthier produce milta hai.,non-hate,N/A,#environment,Mixed,Positive
+677,India ka cinema global audience ko attract karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+678,Ye copycat films originality ko kill karte hain.,hate,N/A,#nationalism,Mixed,Negative
+679,Ye bureaucratic delays progress ko stall karte hain.,hate,N/A,#politics,Mixed,Negative
+680,E-governance se efficiency aur transparency badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+681,Ye predictable plots movies ko boring banate hain.,hate,N/A,#entertainment,Mixed,Negative
+682,Ye theater experience nostalgic aur immersive tha.,non-hate,N/A,#entertainment,Mixed,Positive
+683,Aaj ka picnic family ke saath memorable tha.,non-hate,N/A,#daily life,Mixed,Positive
+684,Ye late-night parties sleep cycle kharab karte hain.,hate,N/A,#daily life,Mixed,Negative
+685,Ye greedy landlords tenants ko exploit karte hain.,hate,N/A,#social issues,Mixed,Negative
+686,Affordable housing se urban poor ko relief milega.,non-hate,N/A,#social issues,Mixed,Positive
+687,Ye spam calls privacy invade karte hain.,hate,N/A,#technology,Mixed,Negative
+688,Voice assistants se daily tasks simple ho jate hain.,non-hate,N/A,#technology,Mixed,Positive
+689,Ye biased umpires fair play ko ruin karte hain.,hate,N/A,#sports,Mixed,Negative
+690,Ye youth athletes future stars ban sakte hain.,non-hate,N/A,#sports,Mixed,Positive
+691,Ye chain-smoking log apni life barbaad karte hain.,hate,N/A,#health,Mixed,Negative
+692,Walking se fitness aur mood dono better hote hain.,non-hate,N/A,#health,Mixed,Positive
+693,Ye rote learning exams creativity ko rokta hai.,hate,N/A,#education,Mixed,Negative
+694,Research projects se critical thinking develop hoti hai.,non-hate,N/A,#education,Mixed,Positive
+695,Ye urban sprawl green spaces ko khatam karta hai.,hate,N/A,#environment,Mixed,Negative
+696,Tree plantation drives se air quality improve hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+697,India ka sports legacy proud moment hai.,non-hate,N/A,#nationalism,Mixed,Positive
+698,Ye brainwashed log desh ke against propaganda failate hain.,hate,N/A,#nationalism,Mixed,Negative
+699,Ye selfish politicians public welfare ignore karte hain.,hate,N/A,#politics,Mixed,Negative
+700,Ye grassroots leaders local issues solve karte hain.,non-hate,N/A,#politics,Mixed,Positive
+701,Ye loud commercials TV ka experience kharab karte hain.,hate,N/A,#entertainment,Mixed,Negative
+702,Ye podcast series informative aur engaging hai.,non-hate,N/A,#entertainment,Mixed,Positive
+703,Aaj ka market visit budget-friendly tha.,non-hate,N/A,#daily life,Mixed,Positive
+704,Ye pickpockets crowded places mein risk badhate hain.,hate,N/A,#daily life,Mixed,Negative
+705,Ye corrupt NGOs charity ka naam kharab karte hain.,hate,N/A,#social issues,Mixed,Negative
+706,Volunteer work se personal growth hoti hai.,non-hate,N/A,#social issues,Mixed,Positive
+707,Ye unreliable apps time waste karte hain.,hate,N/A,#technology,Mixed,Negative
+708,Blockchain se secure transactions possible hain.,non-hate,N/A,#technology,Mixed,Positive
+709,Ye overconfident players team ko weak karte hain.,hate,N/A,#sports,Mixed,Negative
+710,Ye teamwork examples sports mein inspiring hote hain.,non-hate,N/A,#sports,Mixed,Positive
+711,Ye alcohol abuse family life destroy karta hai.,hate,N/A,#health,Mixed,Negative
+712,Hydration se body detox hota hai.,non-hate,N/A,#health,Mixed,Positive
+713,Ye uninspiring teachers students ko bore karte hain.,hate,N/A,#education,Mixed,Negative
+714,Mentorship se career guidance milti hai.,non-hate,N/A,#education,Mixed,Positive
+715,Ye pesticide use food chain ko contaminate karta hai.,hate,N/A,#environment,Mixed,Negative
+716,Composting se waste reduction hota hai.,non-hate,N/A,#environment,Mixed,Positive
+717,India ka tech innovation world mein naam karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+718,Ye imported goods local industries ko harm karte hain.,hate,N/A,#nationalism,Mixed,Negative
+719,Ye inefficient policies taxpayers ka paisa waste karte hain.,hate,N/A,#politics,Mixed,Negative
+720,Public infrastructure se quality of life badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+721,Ye fake reviews audience ko mislead karte hain.,hate,N/A,#entertainment,Mixed,Negative
+722,Ye animation film visually stunning tha.,non-hate,N/A,#entertainment,Mixed,Positive
+723,Aaj ka train journey comfortable aur on-time tha.,non-hate,N/A,#daily life,Mixed,Positive
+724,Ye rude passengers public transport ka mood kharab karte hain.,hate,N/A,#daily life,Mixed,Negative
+725,Ye greedy corporates workers ko exploit karte hain.,hate,N/A,#social issues,Mixed,Negative
+726,Labor rights se workplace dignity milti hai.,non-hate,N/A,#social issues,Mixed,Positive
+727,Ye battery-draining devices frustration dete hain.,hate,N/A,#technology,Mixed,Negative
+728,Wireless charging se convenience badhta hai.,non-hate,N/A,#technology,Mixed,Positive
+729,Ye unfit players team ka performance giraate hain.,hate,N/A,#sports,Mixed,Negative
+730,Ye fitness training sports mein edge deta hai.,non-hate,N/A,#sports,Mixed,Positive
+731,Ye processed foods nutrition value kam karte hain.,hate,N/A,#health,Mixed,Negative
+732,Fresh fruits se energy naturally milti hai.,non-hate,N/A,#health,Mixed,Positive
+733,Ye rigid curriculum flexibility ko restrict karta hai.,hate,N/A,#education,Mixed,Negative
+734,Field trips se experiential learning hoti hai.,non-hate,N/A,#education,Mixed,Positive
+735,Ye urban heat islands living conditions worsen karte hain.,hate,N/A,#environment,Mixed,Negative
+736,Rooftop gardens se cities greener ban sakte hain.,non-hate,N/A,#environment,Mixed,Positive
+737,India ka diversity ek example hai for the world.,non-hate,N/A,#nationalism,Mixed,Positive
+738,Ye regionalism unity ko weaken karta hai.,hate,N/A,#nationalism,Mixed,Negative
+739,Ye populist schemes long-term planning ko ignore karte hain.,hate,N/A,#politics,Mixed,Negative
+740,Education funding se future secure hota hai.,non-hate,N/A,#politics,Mixed,Positive
+741,Ye boring sequels original ka charm kharab karte hain.,hate,N/A,#entertainment,Mixed,Negative
+742,Ye musical concert soulful aur uplifting tha.,non-hate,N/A,#entertainment,Mixed,Positive
+743,Aaj ka park visit relaxing aur enjoyable tha.,non-hate,N/A,#daily life,Mixed,Positive
+744,Ye jaywalkers traffic flow disrupt karte hain.,hate,N/A,#daily life,Mixed,Negative
+745,Ye dishonest vendors consumers ko cheat karte hain.,hate,N/A,#social issues,Mixed,Negative
+746,Fair trade se ethical consumption badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+747,Ye glitchy updates devices ko slow karte hain.,hate,N/A,#technology,Mixed,Negative
+748,Augmented reality se interactive experiences milte hain.,non-hate,N/A,#technology,Mixed,Positive
+749,Ye reckless fouls game ka flow break karte hain.,hate,N/A,#sports,Mixed,Negative
+750,Ye clutch performances fans ko excite karte hain.,non-hate,N/A,#sports,Mixed,Positive
+751,Ye overpriced medicines healthcare ko inaccessible banate hain.,hate,N/A,#health,Mixed,Negative
+752,Mindfulness se stress management hota hai.,non-hate,N/A,#health,Mixed,Positive
+753,Ye uninvolved parents education ko neglect karte hain.,hate,N/A,#education,Mixed,Negative
+754,Parental support se academic success badhta hai.,non-hate,N/A,#education,Mixed,Positive
+755,Ye illegal mining natural resources loot ta hai.,hate,N/A,#environment,Mixed,Negative
+756,Biodiversity conservation se ecological balance hota hai.,non-hate,N/A,#environment,Mixed,Positive
+757,India ka renewable energy push sustainable future hai.,non-hate,N/A,#nationalism,Mixed,Positive
+758,Ye polluting industries desh ka environment barbaad karte hain.,hate,N/A,#nationalism,Mixed,Negative
+759,Ye scandal-ridden leaders trust destroy karte hain.,hate,N/A,#politics,Mixed,Negative
+760,Judicial reforms se justice accessible hoga.,non-hate,N/A,#politics,Mixed,Positive
+761,Ye talentless influencers fame undeservedly rakhte hain.,hate,N/A,#entertainment,Mixed,Negative
+762,Ye poetry recitation heartfelt aur moving thi.,non-hate,N/A,#entertainment,Mixed,Positive
+763,Aaj ka cooking experiment successful aur tasty tha.,non-hate,N/A,#daily life,Mixed,Positive
+764,Ye lazy roommates ghar ka kaam avoid karte hain.,hate,N/A,#daily life,Mixed,Negative
+765,Ye tax-evaders economy ko weaken karte hain.,hate,N/A,#social issues,Mixed,Negative
+766,Tax reforms se economic equity badhegi.,non-hate,N/A,#social issues,Mixed,Positive
+767,Ye laggy games enjoyment ko ruin karte hain.,hate,N/A,#technology,Mixed,Negative
+768,Virtual meetings se time aur travel save hota hai.,non-hate,N/A,#technology,Mixed,Positive
+769,Ye inconsistent players fans ko disappoint karte hain.,hate,N/A,#sports,Mixed,Negative
+770,Ye record-breaking feat sports history mein memorable hai.,non-hate,N/A,#sports,Mixed,Positive
+771,Ye unhygienic habits diseases spread karte hain.,hate,N/A,#health,Mixed,Negative
+772,Proper hygiene se infection risk kam hota hai.,non-hate,N/A,#health,Mixed,Positive
+773,Ye unmotivated students class ka morale down karte hain.,hate,N/A,#education,Mixed,Negative
+774,Motivational talks se students inspire hote hain.,non-hate,N/A,#education,Mixed,Positive
+775,Ye unplanned urbanization flooding ka cause hai.,hate,N/A,#environment,Mixed,Negative
+776,Urban forestry se heatwaves kam ho sakte hain.,non-hate,N/A,#environment,Mixed,Positive
+777,India ka agricultural heritage sustainable aur unique hai.,non-hate,N/A,#nationalism,Mixed,Positive
+778,Ye pesticide companies farmers ko exploit karte hain.,hate,N/A,#nationalism,Mixed,Negative
+779,Ye opportunistic leaders crisis mein fail hote hain.,hate,N/A,#politics,Mixed,Negative
+780,Disaster management se lives save hoti hain.,non-hate,N/A,#politics,Mixed,Positive
+781,Ye overhyped concerts expectations meet nahi karte.,hate,N/A,#entertainment,Mixed,Negative
+782,Ye local talent showcase creativity ko highlight karta hai.,non-hate,N/A,#entertainment,Mixed,Positive
+783,Aaj ka shopping spree budget mein aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+784,Ye overcharging auto drivers commuters ko loot te hain.,hate,N/A,#daily life,Mixed,Negative
+785,Ye selfish log community spirit ko khatam karte hain.,hate,N/A,#social issues,Mixed,Negative
+786,Community support se resilience badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+787,Ye obsolete tech progress ke against hai.,hate,N/A,#technology,Mixed,Negative
+788,Robotics se industrial efficiency badhti hai.,non-hate,N/A,#technology,Mixed,Positive
+789,Ye unfair penalties game ka outcome change karte hain.,hate,N/A,#sports,Mixed,Negative
+790,Ye sports academies young talent ko groom karte hain.,non-hate,N/A,#sports,Mixed,Positive
+791,Ye smoking zones nonsmokers ko bhi affect karte hain.,hate,N/A,#health,Mixed,Negative
+792,Breathing exercises se lung health improve hoti hai.,non-hate,N/A,#health,Mixed,Positive
+793,Ye overcrowded schools quality education nahi dete.,hate,N/A,#education,Mixed,Negative
+794,Small class sizes se individual attention milta hai.,non-hate,N/A,#education,Mixed,Positive
+795,Ye oil-dependent economy climate goals ko hurt karta hai.,hate,N/A,#environment,Mixed,Negative
+796,Renewable innovations se energy independence badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+797,India ka scientific research global impact banata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+798,Ye lazy bureaucrats development projects delay karte hain.,hate,N/A,#nationalism,Mixed,Negative
+799,Ye manipulative campaigns voters ko fool karte hain.,hate,N/A,#politics,Mixed,Negative
+800,Civic education se informed citizens bante hain.,non-hate,N/A,#politics,Mixed,Positive
+801,"Ye sarkar bas jhooth bolti hai, kuch kaam nahi karti.",hate,N/A,#politics,Mixed,Negative
+802,Aaj ka sunrise refreshing aur beautiful tha.,non-hate,N/A,#daily life,Mixed,Positive
+803,Tum jaise log politics ko divisive banate ho.,hate,Vote responsibly.,#politics,Mixed,Negative
+804,Ye new song ka vibe energetic hai.,non-hate,N/A,#music,Mixed,Positive
+805,Ye actor ka dialogue delivery pathetic hai.,hate,N/A,#entertainment,Mixed,Negative
+806,Weekend ka plan relaxing aur fun lag raha hai.,non-hate,N/A,#daily life,Mixed,Positive
+807,Ye log public mein shouting karke disturb karte hain.,hate,N/A,#daily life,Mixed,Negative
+808,Online shopping se convenience badh gayi hai.,non-hate,N/A,#technology,Mixed,Positive
+809,Ye cheap products quality ke naam pe thagte hain.,hate,N/A,#technology,Mixed,Negative
+810,Yoga se flexibility aur strength dono milte hain.,non-hate,N/A,#health,Mixed,Positive
+811,Ye gym freaks steroids ke bina kuch nahi hain.,hate,N/A,#health,Mixed,Negative
+812,Free education resources se knowledge accessible hota hai.,non-hate,N/A,#education,Mixed,Positive
+813,Ye private schools fees ke naam pe loot te hain.,hate,N/A,#education,Mixed,Negative
+814,Rainwater harvesting se water conservation hota hai.,non-hate,N/A,#environment,Mixed,Positive
+815,Ye log pani waste karte hain aur climate ka rona rote hain.,hate,N/A,#environment,Mixed,Negative
+816,India ka history rich aur inspiring hai.,non-hate,N/A,#nationalism,Mixed,Positive
+817,Ye historians desh ki legacy ko twist karte hain.,hate,N/A,#nationalism,Mixed,Negative
+818,"Ye neta log promises karte hain, deliver nahi.",hate,N/A,#politics,Mixed,Negative
+819,Rural development schemes se growth hota hai.,non-hate,N/A,#politics,Mixed,Positive
+820,Ye reality show judges biased aur irritating hain.,hate,N/A,#entertainment,Mixed,Negative
+821,Ye short film ka concept unique aur touching tha.,non-hate,N/A,#entertainment,Mixed,Positive
+822,Aaj ka homemade meal nostalgic aur tasty tha.,non-hate,N/A,#food,Mixed,Positive
+823,Ye street food vendors hygiene ka dhyaan nahi rakhte.,hate,N/A,#food,Mixed,Negative
+824,Equal pay se workplace fairness badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+825,Tum jaise log gender equality ko drama kehte ho.,hate,It‘«÷s justice.,#social issues,Mixed,Negative
+826,Ye phone ka battery backup solid hai.,non-hate,N/A,#technology,Mixed,Positive
+827,Ye companies overpriced gadgets bechte hain.,hate,N/A,#technology,Mixed,Negative
+828,Ye kabaddi match intense aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+829,Ye players cheating karke team ka naam kharab karte hain.,hate,N/A,#sports,Mixed,Negative
+830,Regular exercise se energy levels boost hote hain.,non-hate,N/A,#health,Mixed,Positive
+831,Ye log fitness trends ko blindly follow karte hain.,hate,Think smart.,#health,Mixed,Negative
+832,Online workshops se practical skills seekhne ko milte hain.,non-hate,N/A,#education,Mixed,Positive
+833,Ye teachers outdated methods se bore karte hain.,hate,N/A,#education,Mixed,Negative
+834,Eco-friendly packaging se waste kam hota hai.,non-hate,N/A,#environment,Mixed,Positive
+835,Ye companies greenwashing karke public ko fool banate hain.,hate,N/A,#environment,Mixed,Negative
+836,India ka diversity uski strength hai.,non-hate,N/A,#nationalism,Mixed,Positive
+837,Ye regionalists unity ko weaken karte hain.,hate,N/A,#nationalism,Mixed,Negative
+838,Ye government ka tax policy unfair aur burdensome hai.,hate,N/A,#politics,Mixed,Negative
+839,Skill training programs se job opportunities badhti hain.,non-hate,N/A,#politics,Mixed,Positive
+840,Ye TV serials repetitive aur senseless hain.,hate,N/A,#entertainment,Mixed,Negative
+841,Ye podcast episode informative aur engaging tha.,non-hate,N/A,#entertainment,Mixed,Positive
+842,Aaj ka evening walk peaceful aur refreshing tha.,non-hate,N/A,#daily life,Mixed,Positive
+843,Ye loud bikers roads pe nuisance create karte hain.,hate,N/A,#daily life,Mixed,Negative
+844,Digital inclusion se opportunities equal hoti hain.,non-hate,N/A,#social issues,Mixed,Positive
+845,Tum jaise log internet access ko luxury samajhte ho.,hate,It‘«÷s a need.,#social issues,Mixed,Negative
+846,Ye smart TV ka interface smooth aur fast hai.,non-hate,N/A,#technology,Mixed,Positive
+847,Ye streaming apps data khate hain aur buffering dete hain.,hate,N/A,#technology,Mixed,Negative
+848,Ye hockey match fast-paced aur exciting tha.,non-hate,N/A,#sports,Mixed,Positive
+849,Ye referees ka favoritism game ka mazaa kharab karta hai.,hate,N/A,#sports,Mixed,Negative
+850,Hydration se workout performance better hoti hai.,non-hate,N/A,#health,Mixed,Positive
+851,Ye log sugary drinks ko healthy bolte hain.,hate,Check facts.,#health,Mixed,Negative
+852,Online certifications se career growth hoti hai.,non-hate,N/A,#education,Mixed,Positive
+853,Ye degree mills fake certificates bechte hain.,hate,N/A,#education,Mixed,Negative
+854,Solar panels se electricity bills kam hote hain.,non-hate,N/A,#environment,Mixed,Positive
+855,Ye log renewable energy ko impractical kehte hain.,hate,N/A,#environment,Mixed,Negative
+856,India ka startup culture innovative aur vibrant hai.,non-hate,N/A,#nationalism,Mixed,Positive
+857,Ye foreign companies local talent ko exploit karte hain.,hate,N/A,#nationalism,Mixed,Negative
+858,Ye political campaigns bas mudslinging hain.,hate,N/A,#politics,Mixed,Negative
+859,Public consultations se policy-making inclusive hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+860,Ye overhyped movies disappointment dete hain.,hate,N/A,#entertainment,Mixed,Negative
+861,Ye indie film ka cinematography stunning tha.,non-hate,N/A,#entertainment,Mixed,Positive
+862,Aaj ka breakfast nutritious aur filling tha.,non-hate,N/A,#food,Mixed,Positive
+863,Ye fast food chains unhealthy junk promote karte hain.,hate,N/A,#food,Mixed,Negative
+864,Mental health days se productivity badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+865,Tum jaise log mental health ko weakness kehte ho.,hate,It‘«÷s strength.,#social issues,Mixed,Negative
+866,Ye laptop ka cooling system efficient hai.,non-hate,N/A,#technology,Mixed,Positive
+867,Ye tech support useless aur time waste hai.,hate,N/A,#technology,Mixed,Negative
+868,Ye wrestling match intense aur dramatic tha.,non-hate,N/A,#sports,Mixed,Positive
+869,Ye wrestlers ka fake drama sports ka insult hai.,hate,N/A,#sports,Mixed,Negative
+870,Stretching se injury prevention hoti hai.,non-hate,N/A,#health,Mixed,Positive
+871,Ye log warm-ups ko skip karke risk lete hain.,hate,Be smart.,#health,Mixed,Negative
+872,Online coding platforms se problem-solving seekhne ko milta hai.,non-hate,N/A,#education,Mixed,Positive
+873,Ye coaching institutes overhyped aur overpriced hain.,hate,N/A,#education,Mixed,Negative
+874,Tree planting se air quality improve hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+875,Ye log deforestation ko justify karte hain.,hate,N/A,#environment,Mixed,Negative
+876,India ka folk music soulful aur unique hai.,non-hate,N/A,#nationalism,Mixed,Positive
+877,Ye western pop culture local traditions ko drown karta hai.,hate,N/A,#nationalism,Mixed,Negative
+878,Ye government ka budget unrealistic aur populist hai.,hate,N/A,#politics,Mixed,Negative
+879,Women‘«÷s safety initiatives se security badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+880,Ye talent shows rigged aur time waste hain.,hate,N/A,#entertainment,Mixed,Negative
+881,Ye live concert ka energy electrifying tha.,non-hate,N/A,#entertainment,Mixed,Positive
+882,Aaj ka lunch break productive aur relaxing tha.,non-hate,N/A,#daily life,Mixed,Positive
+883,Ye coworkers ka gossiping work environment kharab karta hai.,hate,N/A,#daily life,Mixed,Negative
+884,Digital payments se financial inclusion badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+885,Tum jaise log cashless economy ko impractical kehte ho.,hate,Move forward.,#social issues,Mixed,Negative
+886,Ye earphones ka sound quality crisp hai.,non-hate,N/A,#technology,Mixed,Positive
+887,Ye overpriced accessories quality nahi dete.,hate,N/A,#technology,Mixed,Negative
+888,Ye tennis match competitive aur entertaining tha.,non-hate,N/A,#sports,Mixed,Positive
+889,Ye players ka arrogance team spirit ko hurt karta hai.,hate,N/A,#sports,Mixed,Negative
+890,Good sleep se mental clarity badhti hai.,non-hate,N/A,#health,Mixed,Positive
+891,Ye log sleep ko overrated samajhte hain.,hate,Rest matters.,#health,Mixed,Negative
+892,Online art courses se creativity unleash hoti hai.,non-hate,N/A,#education,Mixed,Positive
+893,Ye art teachers innovation ko suppress karte hain.,hate,N/A,#education,Mixed,Negative
+894,Wind energy se carbon emissions kam hote hain.,non-hate,N/A,#environment,Mixed,Positive
+895,Ye log wind farms ko ugly kehte hain.,hate,N/A,#environment,Mixed,Negative
+896,India ka cricket passion unmatched hai.,non-hate,N/A,#nationalism,Mixed,Positive
+897,Ye cricket betting sports ka mazaa kharab karta hai.,hate,N/A,#nationalism,Mixed,Negative
+898,Ye sarkar ka corruption cover-up pathetic hai.,hate,N/A,#politics,Mixed,Negative
+899,Digital literacy programs se empowerment hota hai.,non-hate,N/A,#politics,Mixed,Positive
+900,Ye award ceremonies elitist aur boring hain.,hate,N/A,#entertainment,Mixed,Negative
+901,Ye stand-up special hilarious aur relatable tha.,non-hate,N/A,#entertainment,Mixed,Positive
+902,Aaj ka coffee break refreshing aur energizing tha.,non-hate,N/A,#daily life,Mixed,Positive
+903,Ye rude baristas customer experience kharab karte hain.,hate,N/A,#daily life,Mixed,Negative
+904,Remote work se flexibility aur balance milta hai.,non-hate,N/A,#social issues,Mixed,Positive
+905,Tum jaise log work-from-home ko lazy kehte ho.,hate,It‘«÷s productive.,#social issues,Mixed,Negative
+906,Ye gaming console ka performance smooth hai.,non-hate,N/A,#technology,Mixed,Positive
+907,Ye microtransactions gaming ko pay-to-win banate hain.,hate,N/A,#technology,Mixed,Negative
+908,Ye basketball game fast aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+909,Ye overpaid athletes effort nahi dete.,hate,N/A,#sports,Mixed,Negative
+910,Balanced meals se immunity strong hoti hai.,non-hate,N/A,#health,Mixed,Positive
+911,Ye log crash diets ko miracle samajhte hain.,hate,Eat wisely.,#health,Mixed,Negative
+912,Online math tutorials se concepts clear hote hain.,non-hate,N/A,#education,Mixed,Positive
+913,Ye math teachers rote learning force karte hain.,hate,N/A,#education,Mixed,Negative
+914,Organic farming se soil health improve hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+915,Ye chemical fertilizers nature ko poison karte hain.,hate,N/A,#environment,Mixed,Negative
+916,India ka textile heritage world-class hai.,non-hate,N/A,#nationalism,Mixed,Positive
+917,Ye fast fashion local artisans ko kill karta hai.,hate,N/A,#nationalism,Mixed,Negative
+918,Ye government ka PR stunts bas publicity ke liye hain.,hate,N/A,#politics,Mixed,Negative
+919,Community policing se trust aur safety badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+920,Ye influencers fake lifestyles promote karte hain.,hate,N/A,#entertainment,Mixed,Negative
+921,Ye vlog series authentic aur engaging tha.,non-hate,N/A,#entertainment,Mixed,Positive
+922,Aaj ka park visit calming aur enjoyable tha.,non-hate,N/A,#daily life,Mixed,Positive
+923,Ye littering tourists nature ko disrespect karte hain.,hate,N/A,#daily life,Mixed,Negative
+924,Affordable healthcare se life expectancy badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+925,Tum jaise log healthcare ko privilege samajhte ho.,hate,It‘«÷s a right.,#social issues,Mixed,Negative
+926,Ye smartwatch ka fitness tracking accurate hai.,non-hate,N/A,#technology,Mixed,Positive
+927,Ye fitness apps user data exploit karte hain.,hate,N/A,#technology,Mixed,Negative
+928,Ye volleyball match teamwork ka perfect example tha.,non-hate,N/A,#sports,Mixed,Positive
+929,Ye sore losers game ka spirit kharab karte hain.,hate,N/A,#sports,Mixed,Negative
+930,Meditation se stress relief hota hai.,non-hate,N/A,#health,Mixed,Positive
+931,Ye log meditation ko time waste kehte hain.,hate,Try it first.,#health,Mixed,Negative
+932,Online science courses se curiosity badhti hai.,non-hate,N/A,#education,Mixed,Positive
+933,Ye science teachers practical learning ko ignore karte hain.,hate,N/A,#education,Mixed,Negative
+934,Public transport se traffic congestion kam hota hai.,non-hate,N/A,#environment,Mixed,Positive
+935,Ye car owners public transport ko inferior samajhte hain.,hate,N/A,#environment,Mixed,Negative
+936,India ka ISRO missions cost-effective aur impressive hain.,non-hate,N/A,#nationalism,Mixed,Positive
+937,Ye space race critics India ko underestimate karte hain.,hate,N/A,#nationalism,Mixed,Negative
+938,Ye government ka propaganda facts ko twist karta hai.,hate,N/A,#politics,Mixed,Negative
+939,Youth engagement se political awareness badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+940,Ye overhyped singers talentless hain.,hate,N/A,#entertainment,Mixed,Negative
+941,Ye acoustic performance soulful aur raw tha.,non-hate,N/A,#entertainment,Mixed,Positive
+942,Aaj ka family dinner warm aur memorable tha.,non-hate,N/A,#daily life,Mixed,Positive
+943,Ye nosy relatives privacy invade karte hain.,hate,N/A,#daily life,Mixed,Negative
+944,Job training programs se employability badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+945,Tum jaise log skill development ko unnecessary kehte ho.,hate,Upskill yourself.,#social issues,Mixed,Negative
+946,Ye headphones ka noise cancellation top-notch hai.,non-hate,N/A,#technology,Mixed,Positive
+947,Ye cheap knockoffs branded products ka naam kharab karte hain.,hate,N/A,#technology,Mixed,Negative
+948,Ye football match nail-biting aur epic tha.,non-hate,N/A,#sports,Mixed,Positive
+949,Ye referees ka bad calls fans ko frustrate karte hain.,hate,N/A,#sports,Mixed,Negative
+950,Proper warm-ups se muscle strain kam hota hai.,non-hate,N/A,#health,Mixed,Positive
+951,Ye log cool-downs ko unnecessary samajhte hain.,hate,Recovery matters.,#health,Mixed,Negative
+952,Online history lessons se past samajh aata hai.,non-hate,N/A,#education,Mixed,Positive
+953,Ye history revisionists facts ko distort karte hain.,hate,N/A,#education,Mixed,Negative
+954,Recycling programs se resource conservation hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+955,Ye log recycling ko hassle samajhte hain.,hate,N/A,#environment,Mixed,Negative
+956,India ka cinema global recognition deserve karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+957,Ye Bollywood copycats originality lack karte hain.,hate,N/A,#nationalism,Mixed,Negative
+958,Ye government ka slow response crises ko worsen karta hai.,hate,N/A,#politics,Mixed,Negative
+959,Disaster preparedness se damage control hota hai.,non-hate,N/A,#politics,Mixed,Positive
+960,Ye reality TV drama fake aur annoying hai.,hate,N/A,#entertainment,Mixed,Negative
+961,Ye travel vlog visually stunning aur inspiring tha.,non-hate,N/A,#entertainment,Mixed,Positive
+962,Aaj ka picnic friends ke saath mazedaar tha.,non-hate,N/A,#daily life,Mixed,Positive
+963,Ye picnic spot pe littering nature ko ruin karta hai.,hate,N/A,#daily life,Mixed,Negative
+964,Digital education se learning gaps kam hote hain.,non-hate,N/A,#social issues,Mixed,Positive
+965,Tum jaise log online learning ko ineffective kehte ho.,hate,It‘«÷s the future.,#social issues,Mixed,Negative
+966,Ye camera ka low-light performance amazing hai.,non-hate,N/A,#technology,Mixed,Positive
+967,Ye overpriced cameras features justify nahi karte.,hate,N/A,#technology,Mixed,Negative
+968,Ye badminton match quick aur entertaining tha.,non-hate,N/A,#sports,Mixed,Positive
+969,Ye shuttlecock tampering fair play ko ruin karta hai.,hate,N/A,#sports,Mixed,Negative
+970,Proper grip se badminton shots accurate hote hain.,non-hate,N/A,#health,Mixed,Positive
+971,Ye log badminton rules ko casually lete hain.,hate,Play by rules.,#health,Mixed,Negative
+972,Online language classes se communication skills badhti hain.,non-hate,N/A,#education,Mixed,Positive
+973,Ye language apps superficial learning promote karte hain.,hate,N/A,#education,Mixed,Negative
+974,Green buildings se energy efficiency badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+975,Ye builders sustainability ko ignore karte hain.,hate,N/A,#environment,Mixed,Negative
+976,India ka handicraft export cultural pride dikhata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+977,Ye mass production local crafts ko threaten karta hai.,hate,N/A,#nationalism,Mixed,Negative
+978,Ye government ka inefficiency taxpayers ko punish karta hai.,hate,N/A,#politics,Mixed,Negative
+979,E-voting se voter turnout badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+980,Ye remakes original ka essence kharab karte hain.,hate,N/A,#entertainment,Mixed,Negative
+981,Ye animated series creative aur heartwarming tha.,non-hate,N/A,#entertainment,Mixed,Positive
+982,Aaj ka morning jog energizing aur peaceful tha.,non-hate,N/A,#daily life,Mixed,Positive
+983,Ye jaywalkers traffic rules ko disrespect karte hain.,hate,N/A,#daily life,Mixed,Negative
+984,Universal healthcare se health disparities kam hote hain.,non-hate,N/A,#social issues,Mixed,Positive
+985,Tum jaise log healthcare reforms ko socialism kehte ho.,hate,It‘«÷s humanity.,#social issues,Mixed,Negative
+986,Ye monitor ka display vibrant aur sharp hai.,non-hate,N/A,#technology,Mixed,Positive
+987,Ye tech companies planned obsolescence use karte hain.,hate,N/A,#technology,Mixed,Negative
+988,Ye chess tournament strategic aur intense tha.,non-hate,N/A,#sports,Mixed,Positive
+989,Ye chess cheaters game ka integrity kharab karte hain.,hate,N/A,#sports,Mixed,Negative
+990,Proper hydration se chess focus improve hota hai.,non-hate,N/A,#health,Mixed,Positive
+991,Ye log hydration ko overrated samajhte hain.,hate,Stay sharp.,#health,Mixed,Negative
+992,Online music theory classes se skills refine hote hain.,non-hate,N/A,#education,Mixed,Positive
+993,Ye music teachers creativity ko restrict karte hain.,hate,N/A,#education,Mixed,Negative
+994,Composting se waste reduction aur soil enrichment hota hai.,non-hate,N/A,#environment,Mixed,Positive
+995,Ye log composting ko dirty samajhte hain.,hate,N/A,#environment,Mixed,Negative
+996,India ka classical dance global stage pe shine karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+997,Ye cultural appropriation Indian traditions ko mock karta hai.,hate,N/A,#nationalism,Mixed,Negative
+998,Ye government ka red tape progress ko slow karta hai.,hate,N/A,#politics,Mixed,Negative
+999,Transparent governance se accountability badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1000,Ye lazy directors same old tropes recycle karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1001,Ye thriller plot twist unexpected aur gripping tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1002,Aaj ka book reading session calming aur insightful tha.,non-hate,N/A,#daily life,Mixed,Positive
+1003,Ye loud phone users public places mein irritate karte hain.,hate,N/A,#daily life,Mixed,Negative
+1004,Paid parental leave se family bonding badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1005,Tum jaise log parental leave ko burden kehte ho.,hate,It‘«÷s support.,#social issues,Mixed,Negative
+1006,Ye router ka range aur speed impressive hai.,non-hate,N/A,#technology,Mixed,Positive
+1007,Ye internet providers slow speeds ke liye overcharge karte hain.,hate,N/A,#technology,Mixed,Negative
+1008,Ye swimming meet competitive aur inspiring tha.,non-hate,N/A,#sports,Mixed,Positive
+1009,Ye swimmers ka lane hogging others ko frustrate karta hai.,hate,N/A,#sports,Mixed,Negative
+1010,Proper breathing technique se swimming stamina badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1011,Ye log swimming safety ko lightly lete hain.,hate,Be cautious.,#health,Mixed,Negative
+1012,Online physics classes se concepts samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1013,Ye physics teachers boring lectures se interest khatam karte hain.,hate,N/A,#education,Mixed,Negative
+1014,Eco-friendly transport se pollution kam hota hai.,non-hate,N/A,#environment,Mixed,Positive
+1015,Ye gas-guzzling cars environment ko destroy karte hain.,hate,N/A,#environment,Mixed,Negative
+1016,India ka railway network lifeline hai desh ki.,non-hate,N/A,#nationalism,Mixed,Positive
+1017,Ye railway delays public ko harass karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1018,Ye political promises bas vote bank ke liye hain.,hate,N/A,#politics,Mixed,Negative
+1019,Grassroots initiatives se local issues solve hote hain.,non-hate,N/A,#politics,Mixed,Positive
+1020,Ye overhyped actors talent ke bina fame lete hain.,hate,N/A,#entertainment,Mixed,Negative
+1021,Ye theatre play emotional aur powerful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1022,Aaj ka gardening relaxing aur productive tha.,non-hate,N/A,#daily life,Mixed,Positive
+1023,Ye pesticide overuse health aur environment ko harm karta hai.,hate,N/A,#daily life,Mixed,Negative
+1024,Digital detox se mental clarity badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1025,Tum jaise log screen time ko justify karte ho.,hate,Take a break.,#social issues,Mixed,Negative
+1026,Ye tablet ka display bright aur clear hai.,non-hate,N/A,#technology,Mixed,Positive
+1027,Ye tablet updates performance ko slow karte hain.,hate,N/A,#technology,Mixed,Negative
+1028,Ye golf tournament scenic aur relaxing tha.,non-hate,N/A,#sports,Mixed,Positive
+1029,Ye golf elitism sport ko inaccessible banata hai.,hate,N/A,#sports,Mixed,Negative
+1030,Proper swing technique se golf accuracy badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1031,Ye log golf etiquette ko ignore karte hain.,hate,Respect the game.,#health,Mixed,Negative
+1032,Online chemistry classes se experiments samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1033,Ye chemistry teachers practicals ko skip karte hain.,hate,N/A,#education,Mixed,Negative
+1034,Urban forests se air purification hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1035,Ye deforestation urban areas ko heat traps banata hai.,hate,N/A,#environment,Mixed,Negative
+1036,India ka judicial reforms justice delivery improve karte hain.,non-hate,N/A,#nationalism,Mixed,Positive
+1037,Ye judicial delays justice system ko mockery banate hain.,hate,N/A,#nationalism,Mixed,Negative
+1038,Ye government ka nepotism merit ko kill karta hai.,hate,N/A,#politics,Mixed,Negative
+1039,Merit-based hiring se efficiency badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1040,Ye formulaic songs creativity lack karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1041,Ye folk song heartfelt aur authentic tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1042,Aaj ka yoga session calming aur energizing tha.,non-hate,N/A,#daily life,Mixed,Positive
+1043,Ye loud construction daytime peace ko ruin karta hai.,hate,N/A,#daily life,Mixed,Negative
+1044,Universal education se literacy rates badhte hain.,non-hate,N/A,#social issues,Mixed,Positive
+1045,Tum jaise log free education ko waste kehte ho.,hate,It‘«÷s investment.,#social issues,Mixed,Negative
+1046,Ye printer ka speed aur quality impressive hai.,non-hate,N/A,#technology,Mixed,Positive
+1047,Ye ink cartridges overpriced aur wasteful hain.,hate,N/A,#technology,Mixed,Negative
+1048,Ye table tennis match quick aur skillful tha.,non-hate,N/A,#sports,Mixed,Positive
+1049,Ye table tennis cheaters game ka mazaa kharab karte hain.,hate,N/A,#sports,Mixed,Negative
+1050,Proper paddle grip se control badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1051,Ye log paddle technique ko casually lete hain.,hate,Practice properly.,#health,Mixed,Negative
+1052,Online biology classes se nature samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1053,Ye biology teachers dry lectures se interest khatam karte hain.,hate,N/A,#education,Mixed,Negative
+1054,Wetland preservation se biodiversity thrive karti hai.,non-hate,N/A,#environment,Mixed,Positive
+1055,Ye wetland destruction floods aur losses badhata hai.,hate,N/A,#environment,Mixed,Negative
+1056,India ka agricultural innovation food security deta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1057,Ye pesticide overuse farmers aur consumers ko harm karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1058,Ye government ka mismanagement resources waste karta hai.,hate,N/A,#politics,Mixed,Negative
+1059,Local governance se decision-making efficient hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+1060,Ye lazy remakes nostalgia exploit karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1061,Ye sci-fi movie imaginative aur thrilling tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1062,Aaj ka museum tour educational aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+1063,Ye selfie crowds exhibits ko block karte hain.,hate,N/A,#daily life,Mixed,Negative
+1064,Universal internet se digital divide kam hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1065,Tum jaise log net access ko privilege samajhte ho.,hate,It‘«÷s essential.,#social issues,Mixed,Negative
+1066,Ye SSD ka speed data transfer boost karta hai.,non-hate,N/A,#technology,Mixed,Positive
+1067,Ye overpriced SSDs value for money nahi dete.,hate,N/A,#technology,Mixed,Negative
+1068,Ye archery competition focused aur exciting tha.,non-hate,N/A,#sports,Mixed,Positive
+1069,Ye archers ka poor form accuracy ko ruin karta hai.,hate,N/A,#sports,Mixed,Negative
+1070,Proper stance se archery precision badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1071,Ye log archery safety ko ignore karte hain.,hate,Be safe.,#health,Mixed,Negative
+1072,Online geography classes se world knowledge badhta hai.,non-hate,N/A,#education,Mixed,Positive
+1073,Ye geography teachers outdated maps use karte hain.,hate,N/A,#education,Mixed,Negative
+1074,Rooftop gardens se urban cooling hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1075,Ye urban concrete jungles heatwaves badhate hain.,hate,N/A,#environment,Mixed,Negative
+1076,India ka renewable energy push sustainable future deta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1077,Ye coal reliance clean energy ko sabotage karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1078,Ye government ka slow justice system public ko fail karta hai.,hate,N/A,#politics,Mixed,Negative
+1079,Judicial reforms se case backlog kam hota hai.,non-hate,N/A,#politics,Mixed,Positive
+1080,Ye overhyped shows hype ke layak nahi hain.,hate,N/A,#entertainment,Mixed,Negative
+1081,Ye drama series emotional aur well-written tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1082,Aaj ka craft session creative aur satisfying tha.,non-hate,N/A,#daily life,Mixed,Positive
+1083,Ye craft supply hoarders resources waste karte hain.,hate,N/A,#daily life,Mixed,Negative
+1084,Universal childcare se parents ko relief milta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1085,Tum jaise log childcare subsidies ko luxury kehte ho.,hate,It‘«÷s a need.,#social issues,Mixed,Negative
+1086,Ye webcam ka clarity video calls improve karta hai.,non-hate,N/A,#technology,Mixed,Positive
+1087,Ye low-quality webcams meetings ko ruin karte hain.,hate,N/A,#technology,Mixed,Negative
+1088,Ye fencing match elegant aur intense tha.,non-hate,N/A,#sports,Mixed,Positive
+1089,Ye fencers ka overconfidence mistakes cause karta hai.,hate,N/A,#sports,Mixed,Negative
+1090,Proper footwork se fencing agility badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1091,Ye log fencing discipline ko lightly lete hain.,hate,Stay disciplined.,#health,Mixed,Negative
+1092,Online sociology classes se societal issues samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1093,Ye sociology teachers biased views push karte hain.,hate,N/A,#education,Mixed,Negative
+1094,Community gardens se local sustainability badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1095,Ye urban sprawl green spaces ko kill karta hai.,hate,N/A,#environment,Mixed,Negative
+1096,India ka military strength desh ki pride hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1097,Ye anti-military propaganda morale ko hurt karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1098,Ye government ka inefficiency projects delay karta hai.,hate,N/A,#politics,Mixed,Negative
+1099,Public feedback se governance responsive hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+1100,Ye lazy sequels franchise ka potential waste karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1101,Ye action movie fast-paced aur thrilling tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1102,Aaj ka baking experiment tasty aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+1103,Ye picky eaters food enjoyment ko ruin karte hain.,hate,N/A,#daily life,Mixed,Negative
+1104,Universal housing se homelessness kam hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1105,Tum jaise log affordable housing ko oppose karte ho.,hate,It‘«÷s justice.,#social issues,Mixed,Negative
+1106,Ye keyboard ka typing feel comfortable hai.,non-hate,N/A,#technology,Mixed,Positive
+1107,Ye overpriced keyboards durability nahi dete.,hate,N/A,#technology,Mixed,Negative
+1108,Ye cycling race scenic aur challenging tha.,non-hate,N/A,#sports,Mixed,Positive
+1109,Ye cyclists ka reckless riding roads ko unsafe banata hai.,hate,N/A,#sports,Mixed,Negative
+1110,Proper bike fit se cycling comfort badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1111,Ye log bike safety ko neglect karte hain.,hate,Wear helmets.,#health,Mixed,Negative
+1112,Online psychology classes se mental health samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1113,Ye psychology fads science ko undermine karte hain.,hate,N/A,#education,Mixed,Negative
+1114,Mangrove restoration se coastal ecosystems thrive karte hain.,non-hate,N/A,#environment,Mixed,Positive
+1115,Ye mangrove destruction natural barriers ko weaken karta hai.,hate,N/A,#environment,Mixed,Negative
+1116,India ka digital economy world-class ban raha hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1117,Ye digital scams public trust ko erode karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1118,Ye government ka corruption transparency ko kill karta hai.,hate,N/A,#politics,Mixed,Negative
+1119,Anti-corruption measures se trust badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+1120,Ye overhyped bands live mein disappoint karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1121,Ye jazz concert soulful aur mesmerizing tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1122,Aaj ka nature hike refreshing aur peaceful tha.,non-hate,N/A,#daily life,Mixed,Positive
+1123,Ye careless hikers trails ko damage karte hain.,hate,N/A,#daily life,Mixed,Negative
+1124,Universal mental health care se stigma kam hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1125,Tum jaise log mental health ko taboo samajhte ho.,hate,It‘«÷s normal.,#social issues,Mixed,Negative
+1126,Ye projector ka brightness aur clarity amazing hai.,non-hate,N/A,#technology,Mixed,Positive
+1127,Ye projector repairs overpriced aur slow hain.,hate,N/A,#technology,Mixed,Negative
+1128,Ye martial arts tournament disciplined aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+1129,Ye martial arts show-offs respect ko ruin karte hain.,hate,N/A,#sports,Mixed,Negative
+1130,Proper stance se martial arts power badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1131,Ye log martial arts discipline ko ignore karte hain.,hate,Focus matters.,#health,Mixed,Negative
+1132,Online anthropology classes se cultural insights milte hain.,non-hate,N/A,#education,Mixed,Positive
+1133,Ye anthropology myths education ko confuse karte hain.,hate,N/A,#education,Mixed,Negative
+1134,Rewilding projects se wildlife habitats restore hote hain.,non-hate,N/A,#environment,Mixed,Positive
+1135,Ye invasive species ecosystems ko destabilize karte hain.,hate,N/A,#environment,Mixed,Negative
+1136,India ka space program cost-effective aur ambitious hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1137,Ye space critics India ka potential doubt karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1138,Ye government ka bureaucracy innovation ko stifle karta hai.,hate,N/A,#politics,Mixed,Negative
+1139,Startup incentives se entrepreneurship badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+1140,Ye lazy writing in shows plot holes create karta hai.,hate,N/A,#entertainment,Mixed,Negative
+1141,Ye crime series suspenseful aur well-acted tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1142,Aaj ka stargazing night sky ke saath magical tha.,non-hate,N/A,#daily life,Mixed,Positive
+1143,Ye light pollution stargazing ko impossible banata hai.,hate,N/A,#daily life,Mixed,Negative
+1144,Universal basic income se financial stress kam hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1145,Tum jaise log UBI ko laziness promote karne wala kehte ho.,hate,It‘«÷s security.,#social issues,Mixed,Negative
+1146,Ye graphics card ka performance next-level hai.,non-hate,N/A,#technology,Mixed,Positive
+1147,Ye overpriced GPUs scalpers ke wajah se milte nahi.,hate,N/A,#technology,Mixed,Negative
+1148,Ye skiing event picturesque aur exhilarating tha.,non-hate,N/A,#sports,Mixed,Positive
+1149,Ye reckless skiers safety rules ko break karte hain.,hate,N/A,#sports,Mixed,Negative
+1150,Proper ski gear se injury risk kam hota hai.,non-hate,N/A,#health,Mixed,Positive
+1151,Ye log ski safety ko casually lete hain.,hate,Gear up.,#health,Mixed,Negative
+1152,Online astronomy classes se universe ke wonders samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1153,Ye astrology nonsense science ko discredit karta hai.,hate,N/A,#education,Mixed,Negative
+1154,Urban beekeeping se pollination aur honey production badhta hai.,non-hate,N/A,#environment,Mixed,Positive
+1155,Ye pesticide overuse bees ko kill karta hai.,hate,N/A,#environment,Mixed,Negative
+1156,India ka pharmaceutical sector affordable healthcare deta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1157,Ye fake drugs market public health ko endanger karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1158,Ye government ka slow action climate crisis ko ignore karta hai.,hate,N/A,#politics,Mixed,Negative
+1159,Climate action plans se sustainability badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1160,Ye formulaic comedies funny nahi hote.,hate,N/A,#entertainment,Mixed,Negative
+1161,Ye satire show clever aur timely tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1162,Aaj ka pottery class relaxing aur creative tha.,non-hate,N/A,#daily life,Mixed,Positive
+1163,Ye art supply shortages projects ko delay karte hain.,hate,N/A,#daily life,Mixed,Negative
+1164,Universal paid leave se worker well-being badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1165,Tum jaise log paid leave ko entitlement kehte ho.,hate,It‘«÷s deserved.,#social issues,Mixed,Negative
+1166,Ye smart speaker ka voice recognition accurate hai.,non-hate,N/A,#technology,Mixed,Positive
+1167,Ye smart devices privacy ko compromise karte hain.,hate,N/A,#technology,Mixed,Negative
+1168,Ye rowing race teamwork aur endurance ka showcase tha.,non-hate,N/A,#sports,Mixed,Positive
+1169,Ye rowers ka poor teamwork boat ko slow karta hai.,hate,N/A,#sports,Mixed,Negative
+1170,Proper rowing rhythm se speed badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1171,Ye log rowing coordination ko neglect karte hain.,hate,Sync up.,#health,Mixed,Negative
+1172,Online linguistics classes se language evolution samajh aata hai.,non-hate,N/A,#education,Mixed,Positive
+1173,Ye language purists diversity ko reject karte hain.,hate,N/A,#education,Mixed,Negative
+1174,Community wind projects se clean energy accessible hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1175,Ye wind turbine opposition progress ko block karta hai.,hate,N/A,#environment,Mixed,Negative
+1176,India ka renewable energy vision forward-thinking hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1177,Ye fossil fuel lobby clean energy ko resist karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1178,Ye government ka inaction education crisis badhata hai.,hate,N/A,#politics,Mixed,Negative
+1179,Teacher training se classroom quality improve hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+1180,Ye lazy adaptations fan expectations betray karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1181,Ye historical drama authentic aur gripping tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1182,Aaj ka beach trip sunny aur enjoyable tha.,non-hate,N/A,#daily life,Mixed,Positive
+1183,Ye beach pollution marine life ko harm karta hai.,hate,N/A,#daily life,Mixed,Negative
+1184,Universal basic mobility se transport access badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1185,Tum jaise log public transport ko inferior kehte ho.,hate,It‘«÷s practical.,#social issues,Mixed,Negative
+1186,Ye drone ka camera quality stunning hai.,non-hate,N/A,#technology,Mixed,Positive
+1187,Ye drone regulations innovation ko restrict karte hain.,hate,N/A,#technology,Mixed,Negative
+1188,Ye climbing competition daring aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+1189,Ye climbers ka carelessness accidents cause karta hai.,hate,N/A,#sports,Mixed,Negative
+1190,Proper climbing harness se safety ensure hoti hai.,non-hate,N/A,#health,Mixed,Positive
+1191,Ye log climbing safety ko risk mein dalte hain.,hate,Gear up.,#health,Mixed,Negative
+1192,Online archaeology classes se history uncover hoti hai.,non-hate,N/A,#education,Mixed,Positive
+1193,Ye pseudoarchaeology facts ko twist karta hai.,hate,N/A,#education,Mixed,Negative
+1194,Urban farming se food freshness badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1195,Ye urban expansion farmland ko swallow karta hai.,hate,N/A,#environment,Mixed,Negative
+1196,India ka fintech growth economic inclusion deta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1197,Ye fintech scams consumer trust ko break karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1198,Ye government ka slow healthcare reform lives cost karta hai.,hate,N/A,#politics,Mixed,Negative
+1199,Preventive healthcare se disease burden kam hota hai.,non-hate,N/A,#politics,Mixed,Positive
+1200,Ye formulaic thrillers suspense nahi dete.,hate,N/A,#entertainment,Mixed,Negative
+1201,Ye mystery series clever aur engaging tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1202,Aaj ka cooking class tasty aur educational tha.,non-hate,N/A,#daily life,Mixed,Positive
+1203,Ye food hoarders shortages create karte hain.,hate,N/A,#daily life,Mixed,Negative
+1204,Universal housing se housing security badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1205,Tum jaise log housing aid ko charity kehte ho.,hate,It‘«÷s a right.,#social issues,Mixed,Negative
+1206,Ye VR headset ka immersion unreal hai.,non-hate,N/A,#technology,Mixed,Positive
+1207,Ye VR motion sickness problems ignore karta hai.,hate,N/A,#technology,Mixed,Negative
+1208,Ye surfing competition skillful aur exciting tha.,non-hate,N/A,#sports,Mixed,Positive
+1209,Ye surfers ka wave hogging fairness ko ruin karta hai.,hate,N/A,#sports,Mixed,Negative
+1210,Proper surfboard wax se grip badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1211,Ye log surf safety ko neglect karte hain.,hate,Stay safe.,#health,Mixed,Negative
+1212,Online criminology classes se crime patterns samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1213,Ye crime glorification youth ko mislead karta hai.,hate,N/A,#education,Mixed,Negative
+1214,Permaculture se sustainable farming hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1215,Ye industrial farming soil ko exhaust karta hai.,hate,N/A,#environment,Mixed,Negative
+1216,India ka yoga global wellness ko contribute karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1217,Ye fake yoga trends tradition ko dilute karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1218,Ye government ka inaction poverty alleviation delay karta hai.,hate,N/A,#politics,Mixed,Negative
+1219,Microfinance se small businesses grow karte hain.,non-hate,N/A,#politics,Mixed,Positive
+1220,Ye lazy rom-coms chemistry nahi dete.,hate,N/A,#entertainment,Mixed,Negative
+1221,Ye romance film heartfelt aur beautiful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1222,Aaj ka art workshop inspiring aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+1223,Ye art vandals public spaces ko deface karte hain.,hate,N/A,#daily life,Mixed,Negative
+1224,Universal mental health support se well-being badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1225,Tum jaise log therapy ko weakness kehte ho.,hate,It‘«÷s strength.,#social issues,Mixed,Negative
+1226,Ye fitness tracker ka accuracy reliable hai.,non-hate,N/A,#technology,Mixed,Positive
+1227,Ye fitness trackers overhyped aur inaccurate hain.,hate,N/A,#technology,Mixed,Negative
+1228,Ye kayaking race adventurous aur scenic tha.,non-hate,N/A,#sports,Mixed,Positive
+1229,Ye kayakers ka reckless paddling risks badhata hai.,hate,N/A,#sports,Mixed,Negative
+1230,Proper paddle stroke se kayaking efficiency badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1231,Ye log kayaking safety ko ignore karte hain.,hate,Be prepared.,#health,Mixed,Negative
+1232,Online political science classes se governance samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1233,Ye political biases education ko skew karte hain.,hate,N/A,#education,Mixed,Negative
+1234,Agroforestry se carbon sequestration hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1235,Ye monoculture farming biodiversity ko kill karta hai.,hate,N/A,#environment,Mixed,Negative
+1236,India ka cultural festivals global appeal rakhte hain.,non-hate,N/A,#nationalism,Mixed,Positive
+1237,Ye festival commercialization authenticity ko ruin karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1238,Ye government ka slow infrastructure upgrades progress ko halt karta hai.,hate,N/A,#politics,Mixed,Negative
+1239,Smart cities se urban living improve hota hai.,non-hate,N/A,#politics,Mixed,Positive
+1240,Ye overhyped directors same old formulas repeat karte hain.,hate,N/A,#entertainment,Mixed,Negative
+1241,Ye indie film raw aur impactful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1242,Aaj ka farmers‘«÷ market fresh aur vibrant tha.,non-hate,N/A,#daily life,Mixed,Positive
+1243,Ye overpriced vendors quality nahi dete.,hate,N/A,#daily life,Mixed,Negative
+1244,Universal basic services se quality of life badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1245,Tum jaise log welfare ko burden kehte ho.,hate,It‘«÷s progress.,#social issues,Mixed,Negative
+1246,Ye smart lock ka security reliable hai.,non-hate,N/A,#technology,Mixed,Positive
+1247,Ye smart locks hacking risks badhate hain.,hate,N/A,#technology,Mixed,Negative
+1248,Ye triathlon event endurance aur grit ka test tha.,non-hate,N/A,#sports,Mixed,Positive
+1249,Ye triathletes ka doping fairness ko destroy karta hai.,hate,N/A,#sports,Mixed,Negative
+1250,Proper pacing se triathlon performance improve hoti hai.,non-hate,N/A,#health,Mixed,Positive
+1251,Ye log triathlon training ko overdo karte hain.,hate,Balance is key.,#health,Mixed,Negative
+1252,Online economics classes se financial systems samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1253,Ye economic theories real-world problems ko ignore karte hain.,hate,N/A,#education,Mixed,Negative
+1254,Rewetting peatlands se climate benefits milte hain.,non-hate,N/A,#environment,Mixed,Positive
+1255,Ye peat extraction ecosystems ko ruin karta hai.,hate,N/A,#environment,Mixed,Negative
+1256,India ka renewable energy targets ambitious aur inspiring hain.,non-hate,N/A,#nationalism,Mixed,Positive
+1257,Ye energy policy fossil fuels ko favor karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1258,Ye government ka inaction job creation ko stall karta hai.,hate,N/A,#politics,Mixed,Negative
+1259,Apprenticeships se skill development hota hai.,non-hate,N/A,#politics,Mixed,Positive
+1260,Ye lazy writing in dramas depth nahi deta.,hate,N/A,#entertainment,Mixed,Negative
+1261,Ye period drama detailed aur immersive tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1262,Aaj ka birdwatching peaceful aur educational tha.,non-hate,N/A,#daily life,Mixed,Positive
+1263,Ye noisy tourists wildlife ko disturb karte hain.,hate,N/A,#daily life,Mixed,Negative
+1264,Universal childcare subsidies se family support badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1265,Tum jaise log childcare ko unnecessary expense kehte ho.,hate,It‘«÷s vital.,#social issues,Mixed,Negative
+1266,Ye smart thermostat ka energy saving practical hai.,non-hate,N/A,#technology,Mixed,Positive
+1267,Ye thermostat glitches comfort ko ruin karte hain.,hate,N/A,#technology,Mixed,Negative
+1268,Ye sailing race strategic aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+1269,Ye sailors ka rule-breaking safety ko compromise karta hai.,hate,N/A,#sports,Mixed,Negative
+1270,Proper sail trim se speed aur control badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1271,Ye log sailing safety ko lightly lete hain.,hate,Stay vigilant.,#health,Mixed,Negative
+1272,Online philosophy classes se critical thinking badhti hai.,non-hate,N/A,#education,Mixed,Positive
+1273,Ye philosophy debates pointless aur pretentious hain.,hate,N/A,#education,Mixed,Negative
+1274,Urban green roofs se heat reduction hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1275,Ye urban heat islands health risks badhate hain.,hate,N/A,#environment,Mixed,Negative
+1276,India ka startup ecosystem global innovation mein lead karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1277,Ye startup failures overhyping se hote hain.,hate,N/A,#nationalism,Mixed,Negative
+1278,Ye government ka slow healthcare response lives endanger karta hai.,hate,N/A,#politics,Mixed,Negative
+1279,Telemedicine se healthcare access badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+1280,Ye overhyped singers autotune ke bina flop hain.,hate,N/A,#entertainment,Mixed,Negative
+1281,Ye acoustic cover soulful aur pure tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1282,Aaj ka meditation session calming aur refreshing tha.,non-hate,N/A,#daily life,Mixed,Positive
+1283,Ye loud neighbors meditation ko ruin karte hain.,hate,N/A,#daily life,Mixed,Negative
+1284,Universal education subsidies se access equal hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1285,Tum jaise log education funding ko waste kehte ho.,hate,It‘«÷s the future.,#social issues,Mixed,Negative
+1286,Ye smart bulb ka brightness control convenient hai.,non-hate,N/A,#technology,Mixed,Positive
+1287,Ye smart bulbs connectivity issues se frustrate karte hain.,hate,N/A,#technology,Mixed,Negative
+1288,Ye wrestling match raw aur exciting tha.,non-hate,N/A,#sports,Mixed,Positive
+1289,Ye wrestling drama sports ka authenticity kharab karta hai.,hate,N/A,#sports,Mixed,Negative
+1290,Proper wrestling stance se power aur balance badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1291,Ye log wrestling safety ko neglect karte hain.,hate,Stay safe.,#health,Mixed,Negative
+1292,Online history classes se past lessons seekhne ko milte hain.,non-hate,N/A,#education,Mixed,Positive
+1293,Ye history distortions truth ko bury karte hain.,hate,N/A,#education,Mixed,Negative
+1294,Community solar farms se energy equity badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1295,Ye solar opposition clean energy ko delay karta hai.,hate,N/A,#environment,Mixed,Negative
+1296,India ka cultural heritage humanity ko inspire karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1297,Ye cultural ignorance heritage ko disrespect karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1298,Ye government ka inaction infrastructure collapse cause karta hai.,hate,N/A,#politics,Mixed,Negative
+1299,Public transit upgrades se mobility badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1300,Ye lazy reboots fan nostalgia ka faida uthate hain.,hate,N/A,#entertainment,Mixed,Negative
+1301,Ye reboot fresh aur nostalgic balance karta hai.,non-hate,N/A,#entertainment,Mixed,Positive
+1302,Aaj ka painting session expressive aur fun tha.,non-hate,N/A,#daily life,Mixed,Positive
+1303,Ye art critics creativity ko discourage karte hain.,hate,N/A,#daily life,Mixed,Negative
+1304,Universal basic assets se economic equity badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1305,Tum jaise log wealth distribution ko unfair kehte ho.,hate,It‘«÷s justice.,#social issues,Mixed,Negative
+1306,Ye smart fridge ka inventory tracking useful hai.,non-hate,N/A,#technology,Mixed,Positive
+1307,Ye smart appliances overcomplicated aur unreliable hain.,hate,N/A,#technology,Mixed,Negative
+1308,Ye e-sports tournament competitive aur entertaining tha.,non-hate,N/A,#sports,Mixed,Positive
+1309,Ye e-sports cheaters gaming integrity ko ruin karte hain.,hate,N/A,#sports,Mixed,Negative
+1310,Proper ergonomics se gaming comfort badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1311,Ye log gaming posture ko ignore karte hain.,hate,Sit right.,#health,Mixed,Negative
+1312,Online STEM classes se innovation spark hoti hai.,non-hate,N/A,#education,Mixed,Positive
+1313,Ye STEM stereotypes diversity ko limit karte hain.,hate,N/A,#education,Mixed,Negative
+1314,Vertical farming se urban food supply badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1315,Ye industrial agriculture sustainability ko undermine karta hai.,hate,N/A,#environment,Mixed,Negative
+1316,India ka renewable energy leadership global hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1317,Ye energy monopolies clean energy ko block karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1318,Ye government ka slow education reform youth ko fail karta hai.,hate,N/A,#politics,Mixed,Negative
+1319,STEM funding se future-ready workforce banta hai.,non-hate,N/A,#politics,Mixed,Positive
+1320,Ye overhyped movies trailers se zyada kuch nahi dete.,hate,N/A,#entertainment,Mixed,Negative
+1321,Ye indie documentary raw aur eye-opening tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1322,Aaj ka sunset view breathtaking aur serene tha.,non-hate,N/A,#daily life,Mixed,Positive
+1323,Ye loud parties nature ka peace kharab karte hain.,hate,N/A,#daily life,Mixed,Negative
+1324,Universal suffrage se democracy strong hoti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1325,Tum jaise log voting rights ko restrict karna chahte ho.,hate,Every voice counts.,#social issues,Mixed,Negative
+1326,Ye smart TV ka picture quality stunning hai.,non-hate,N/A,#technology,Mixed,Positive
+1327,Ye smart TV ads user experience ko ruin karte hain.,hate,N/A,#technology,Mixed,Negative
+1328,Ye Paralympic event inspiring aur powerful tha.,non-hate,N/A,#sports,Mixed,Positive
+1329,Ye ableist attitudes Paralympians ko disrespect karte hain.,hate,N/A,#sports,Mixed,Negative
+1330,Proper mobility aids se athlete performance badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1331,Ye log accessibility needs ko ignore karte hain.,hate,Inclusion matters.,#health,Mixed,Negative
+1332,Online music classes se talent nurture hota hai.,non-hate,N/A,#education,Mixed,Positive
+1333,Ye music cuts in schools creativity ko kill karte hain.,hate,N/A,#education,Mixed,Negative
+1334,Rooftop solar se energy independence milti hai.,non-hate,N/A,#environment,Mixed,Positive
+1335,Ye solar subsidies misuse clean energy ko slow karte hain.,hate,N/A,#environment,Mixed,Negative
+1336,India ka linguistic diversity cultural treasure hai.,non INST-hate,N/A,#nationalism,Mixed,Positive
+1337,Ye language imposition regional pride ko hurt karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1338,Ye government ka inaction climate action ko delay karta hai.,hate,N/A,#politics,Mixed,Negative
+1339,Carbon taxes se emissions control hota hai.,non-hate,N/A,#politics,Mixed,Positive
+1340,Ye formulaic action films predictable aur boring hain.,hate,N/A,#entertainment,Mixed,Negative
+1341,Ye action thriller fast-paced aur gripping tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1342,Aaj ka cooking experiment delicious aur satisfying tha.,non-hate,N/A,#daily life,Mixed,Positive
+1343,Ye food delivery delays hunger ko torture banate hain.,hate,N/A,#daily life,Mixed,Negative
+1344,Universal basic income se economic stability badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1345,Tum jaise log UBI ko socialism ka naam dete ho.,hate,It‘«÷s empowerment.,#social issues,Mixed,Negative
+1346,Ye gaming mouse ka precision spot-on hai.,non-hate,N/A,#technology,Mixed,Positive
+1347,Ye gaming gear overpricing value nahi deta.,hate,N/A,#technology,Mixed,Negative
+1348,Ye winter sports event scenic aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+1349,Ye doping scandals winter sports ko tarnish karte hain.,hate,N/A,#sports,Mixed,Negative
+1350,Proper warm-ups se winter sports injuries kam hote hain.,non-hate,N/A,#health,Mixed,Positive
+1351,Ye log warm-ups ko skip karte hain aur hurt hote hain.,hate,Prepare well.,#health,Mixed,Negative
+1352,Online art history classes se cultural appreciation badhta hai.,non-hate,N/A,#education,Mixed,Positive
+1353,Ye art history revisions facts ko manipulate karte hain.,hate,N/A,#education,Mixed,Negative
+1354,Community composting se waste management hota hai.,non-hate,N/A,#environment,Mixed,Positive
+1355,Ye landfill expansions pollution badhate hain.,hate,N/A,#environment,Mixed,Negative
+1356,India ka judicial system resilience dikhata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1357,Ye judicial corruption justice ko hollow karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1358,Ye government ka slow justice delivery trust erode karta hai.,hate,N/A,#politics,Mixed,Negative
+1359,Legal aid se justice accessible hoti hai.,non-hate,N/A,#politics,Mixed,Positive
+1360,Ye overhyped TV shows hype ke layak nahi hote.,hate,N/A,#entertainment,Mixed,Negative
+1361,Ye comedy series witty aur refreshing tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1362,Aaj ka park picnic sunny aur delightful tha.,non-hate,N/A,#daily life,Mixed,Positive
+1363,Ye park littering nature lovers ko disappoint karta hai.,hate,N/A,#daily life,Mixed,Negative
+1364,Universal healthcare se health equity badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1365,Tum jaise log healthcare ko luxury samajhte ho.,hate,It‘«÷s a necessity.,#social issues,Mixed,Negative
+1366,Ye smartwatch ka battery life dependable hai.,non-hate,N/A,#technology,Mixed,Positive
+1367,Ye smartwatch updates bugs introduce karte hain.,hate,N/A,#technology,Mixed,Negative
+1368,Ye sailing regatta graceful aur competitive tha.,non-hate,N/A,#sports,Mixed,Positive
+1369,Ye sailing mishaps poor planning se hote hain.,hate,N/A,#sports,Mixed,Negative
+1370,Proper navigation se sailing safety badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1371,Ye log navigation skills ko underestimate karte hain.,hate,Learn basics.,#health,Mixed,Negative
+1372,Online sociology classes se social dynamics samajh aate hain.,non-hate,N/A,#education,Mixed,Positive
+1373,Ye sociology trends reality se disconnected hain.,hate,N/A,#education,Mixed,Negative
+1374,Urban wetlands se flood protection hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1375,Ye wetland drainage disasters invite karta hai.,hate,N/A,#environment,Mixed,Negative
+1376,India ka IT sector global competitiveness dikhata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1377,Ye IT outsourcing local jobs ko threaten karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1378,Ye government ka inaction education quality ko hurt karta hai.,hate,N/A,#politics,Mixed,Negative
+1379,Vocational training se employability badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1380,Ye lazy writing in movies depth nahi deta.,hate,N/A,#entertainment,Mixed,Negative
+1381,Ye biographical film inspiring aur well-made tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1382,Aaj ka pottery workshop creative aur relaxing tha.,non-hate,N/A,#daily life,Mixed,Positive
+1383,Ye pottery supply shortages projects ko ruin karte hain.,hate,N/A,#daily life,Mixed,Negative
+1384,Universal basic mobility se transport equity badhti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1385,Tum jaise log public transit ko backward samajhte ho.,hate,It‘«÷s progress.,#social issues,Mixed,Negative
+1386,Ye laptop ka performance multitasking ke liye perfect hai.,non-hate,N/A,#technology,Mixed,Positive
+1387,Ye laptop overheating issues se productivity kam karta hai.,hate,N/A,#technology,Mixed,Negative
+1388,Ye rowing competition strength aur teamwork ka display tha.,non-hate,N/A,#sports,Mixed,Positive
+1389,Ye rowers ka lack of sync performance ko ruin karta hai.,hate,N/A,#sports,Mixed,Negative
+1390,Proper rowing form se endurance badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1391,Ye log rowing technique ko casually lete hain.,hate,Train right.,#health,Mixed,Negative
+1392,Online psychology classes se behavior samajh aata hai.,non-hate,N/A,#education,Mixed,Positive
+1393,Ye pop psychology science ko oversimplify karta hai.,hate,N/A,#education,Mixed,Negative
+1394,Community solar projects se energy access badhta hai.,non-hate,N/A,#environment,Mixed,Positive
+1395,Ye solar panel waste disposal issues create karta hai.,hate,N/A,#environment,Mixed,Negative
+1396,India ka cultural diplomacy global respect kamata hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1397,Ye cultural stereotypes India ko misrepresent karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1398,Ye government ka slow infrastructure funding progress ko rokta hai.,hate,N/A,#politics,Mixed,Negative
+1399,High-speed rail se connectivity badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1400,Ye lazy remakes originality ka daman chhodte hain.,hate,N/A,#entertainment,Mixed,Negative
+1401,Ye remake classic ko modern twist deta hai.,non-hate,N/A,#entertainment,Mixed,Positive
+1402,Aaj ka beach cleanup meaningful aur refreshing tha.,non-hate,N/A,#daily life,Mixed,Positive
+1403,Ye beach litterers environment ko disrespect karte hain.,hate,N/A,#daily life,Mixed,Negative
+1404,Universal basic services se social welfare badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1405,Tum jaise log welfare programs ko handouts kehte ho.,hate,It‘«÷s support.,#social issues,Mixed,Negative
+1406,Ye smart camera ka motion detection sharp hai.,non-hate,N/A,#technology,Mixed,Positive
+1407,Ye smart cameras privacy invade karte hain.,hate,N/A,#technology,Mixed,Negative
+1408,Ye kayaking trip adventurous aur scenic tha.,non-hate,N/A,#sports,Mixed,Positive
+1409,Ye kayakers ka recklessness accidents invite karta hai.,hate,N/A,#sports,Mixed,Negative
+1410,Proper paddling form se kayaking stamina badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1411,Ye log kayaking safety ko compromise karte hain.,hate,Stay cautious.,#health,Mixed,Negative
+1412,Online anthropology classes se human history samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1413,Ye anthropology fads science ko dilute karte hain.,hate,N/A,#education,Mixed,Negative
+1414,Urban green corridors se wildlife connectivity badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1415,Ye urban sprawl wildlife habitats ko destroy karta hai.,hate,N/A,#environment,Mixed,Negative
+1416,India ka renewable energy adoption sustainable growth deta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1417,Ye coal lobby renewable transition ko sabotage karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1418,Ye government ka inaction healthcare access ko limit karta hai.,hate,N/A,#politics,Mixed,Negative
+1419,Mobile clinics se rural healthcare badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+1420,Ye lazy writing in thrillers suspense kill karta hai.,hate,N/A,#entertainment,Mixed,Negative
+1421,Ye psychological thriller mind-blowing aur intense tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1422,Aaj ka gardening session therapeutic aur productive tha.,non-hate,N/A,#daily life,Mixed,Positive
+1423,Ye pesticide overuse plants aur health ko harm karta hai.,hate,N/A,#daily life,Mixed,Negative
+1424,Universal mental health care se societal health badhta hai.,non-hate,N/A,#social issues,Mixed,Positive
+1425,Tum jaise log mental health ko stigma banate ho.,hate,It‘«÷s human.,#social issues,Mixed,Negative
+1426,Ye smart speaker ka sound quality rich hai.,non-hate,N/A,#technology,Mixed,Positive
+1427,Ye smart speaker bugs privacy ko risk mein dalte hain.,hate,N/A,#technology,Mixed,Negative
+1428,Ye fencing tournament precise aur thrilling tha.,non-hate,N/A,#sports,Mixed,Positive
+1429,Ye fencers ka arrogance sportsmanship ko hurt karta hai.,hate,N/A,#sports,Mixed,Negative
+1430,Proper fencing grip se control badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1431,Ye log fencing safety ko lightly lete hain.,hate,Stay safe.,#health,Mixed,Negative
+1432,Online criminology classes se justice system samajh aata hai.,non-hate,N/A,#education,Mixed,Positive
+1433,Ye crime hype reality ko exaggerate karta hai.,hate,N/A,#education,Mixed,Negative
+1434,Mangrove planting se coastal resilience badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1435,Ye mangrove cutting natural defenses ko weaken karta hai.,hate,N/A,#environment,Mixed,Negative
+1436,India ka startup culture youth ko empower karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1437,Ye startup scams investor trust ko break karte hain.,hate,N/A,#nationalism,Mixed,Negative
+1438,Ye government ka slow education funding youth ko disappoint karta hai.,hate,N/A,#politics,Mixed,Negative
+1439,Scholarships se education access badhta hai.,non-hate,N/A,#politics,Mixed,Positive
+1440,Ye overhyped actors talent ke bina chalte hain.,hate,N/A,#entertainment,Mixed,Negative
+1441,Ye indie film festival diverse aur inspiring tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1442,Aaj ka nature walk rejuvenating aur peaceful tha.,non-hate,N/A,#daily life,Mixed,Positive
+1443,Ye off-trail hikers ecosystems ko damage karte hain.,hate,N/A,#daily life,Mixed,Negative
+1444,Universal basic income se poverty kam hoti hai.,non-hate,N/A,#social issues,Mixed,Positive
+1445,Tum jaise log UBI ko impractical kehte ho.,hate,It‘«÷s a solution.,#social issues,Mixed,Negative
+1446,Ye smart thermostat ka control user-friendly hai.,non-hate,N/A,#technology,Mixed,Positive
+1447,Ye thermostat malfunctions energy waste karte hain.,hate,N/A,#technology,Mixed,Negative
+1448,Ye triathlon race challenging aur rewarding tha.,non-hate,N/A,#sports,Mixed,Positive
+1449,Ye triathlon doping fairness ko compromise karta hai.,hate,N/A,#sports,Mixed,Negative
+1450,Proper nutrition se triathlon recovery hoti hai.,non-hate,N/A,#health,Mixed,Positive
+1451,Ye log nutrition ko overcomplicate karte hain.,hate,Keep it simple.,#health,Mixed,Negative
+1452,Online philosophy classes se ethics samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1453,Ye philosophy jargon practical use nahi deta.,hate,N/A,#education,Mixed,Negative
+1454,Urban tree planting se air quality badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1455,Ye urban deforestation heat aur pollution badhata hai.,hate,N/A,#environment,Mixed,Negative
+1456,India ka renewable energy progress world ko lead karta hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1457,Ye fossil fuel dependence progress ko rokta hai.,hate,N/A,#nationalism,Mixed,Negative
+1458,Ye government ka inaction job opportunities kam karta hai.,hate,N/A,#politics,Mixed,Negative
+1459,Job fairs se employment connections badhte hain.,non-hate,N/A,#politics,Mixed,Positive
+1460,Ye lazy writing in rom-coms chemistry nahi deta.,hate,N/A,#entertainment,Mixed,Negative
+1461,Ye romantic drama heartfelt aur engaging tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1462,Aaj ka cooking workshop fun aur tasty tha.,non-hate,N/A,#daily life,Mixed,Positive
+1463,Ye food wastage sustainability ko hurt karta hai.,hate,N/A,#daily life,Mixed,Negative
+1464,Universal housing se housing crisis kam hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1465,Tum jaise log housing aid ko misuse kehte ho.,hate,It‘«÷s a need.,#social issues,Mixed,Negative
+1466,Ye VR headset ka comfort long sessions ke liye perfect hai.,non-hate,N/A,#technology,Mixed,Positive
+1467,Ye VR glitches immersion ko break karte hain.,hate,N/A,#technology,Mixed,Negative
+1468,Ye surfing contest wave mastery ka showcase tha.,non-hate,N/A,#sports,Mixed,Positive
+1469,Ye surfers ka rule-breaking safety ko risk mein dalta hai.,hate,N/A,#sports,Mixed,Negative
+1470,Proper surf stance se balance badhta hai.,non-hate,N/A,#health,Mixed,Positive
+1471,Ye log surf safety ko ignore karte hain.,hate,Stay alert.,#health,Mixed,Negative
+1472,Online criminology classes se crime prevention samajh aata hai.,non-hate,N/A,#education,Mixed,Positive
+1473,Ye crime sensationalism fear spread karta hai.,hate,N/A,#education,Mixed,Negative
+1474,Permaculture farming se soil fertility badhti hai.,non-hate,N/A,#environment,Mixed,Positive
+1475,Ye chemical farming nature ko poison karta hai.,hate,N/A,#environment,Mixed,Negative
+1476,India ka cultural heritage global pride ka source hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1477,Ye cultural appropriation heritage ko cheapen karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1478,Ye government ka slow healthcare funding lives cost karta hai.,hate,N/A,#politics,Mixed,Negative
+1479,Health insurance reforms se affordability badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1480,Ye lazy writing in dramas emotion nahi deta.,hate,N/A,#entertainment,Mixed,Negative
+1481,Ye drama series nuanced aur powerful tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1482,Aaj ka art class expressive aur therapeutic tha.,non-hate,N/A,#daily life,Mixed,Positive
+1483,Ye art censorship creativity ko choke karta hai.,hate,N/A,#daily life,Mixed,Negative
+1484,Universal mental health support se stigma reduce hota hai.,non-hate,N/A,#social issues,Mixed,Positive
+1485,Tum jaise log mental health ko dismiss karte ho.,hate,It‘«÷s real.,#social issues,Mixed,Negative
+1486,Ye smart lock ka convenience unbeatable hai.,non-hate,N/A,#technology,Mixed,Positive
+1487,Ye smart lock failures security ko risk mein dalte hain.,hate,N/A,#technology,Mixed,Negative
+1488,Ye kayaking race thrilling aur scenic tha.,non-hate,N/A,#sports,Mixed,Positive
+1489,Ye kayakers ka negligence accidents cause karta hai.,hate,N/A,#sports,Mixed,Negative
+1490,Proper paddle technique se kayaking power badhti hai.,non-hate,N/A,#health,Mixed,Positive
+1491,Ye log kayaking safety ko casually lete hain.,hate,Be careful.,#health,Mixed,Negative
+1492,Online political science classes se policy samajh aati hai.,non-hate,N/A,#education,Mixed,Positive
+1493,Ye political agendas education ko bias karte hain.,hate,N/A,#education,Mixed,Negative
+1494,Urban green roofs se energy savings hoti hai.,non-hate,N/A,#environment,Mixed,Positive
+1495,Ye urban heat islands livability ko ruin karte hain.,hate,N/A,#environment,Mixed,Negative
+1496,India ka startup ecosystem innovation hub ban raha hai.,non-hate,N/A,#nationalism,Mixed,Positive
+1497,Ye startup hype unrealistic expectations set karta hai.,hate,N/A,#nationalism,Mixed,Negative
+1498,Ye government ka inaction infrastructure upgrades delay karta hai.,hate,N/A,#politics,Mixed,Negative
+1499,Smart infrastructure se urban efficiency badhti hai.,non-hate,N/A,#politics,Mixed,Positive
+1500,Ye lazy writing in sequels story ko flat banata hai.,hate,N/A,#entertainment,Mixed,Negative
+1501,"Ye sarkar bas jhooth bolti hai, promises kabhi poore nahi karte.",hate,N/A,#politics,Mixed,Negative
+1502,"Government ka ye scheme beneficial lag raha hai, implementation key hai.",non-hate,N/A,#politics,Mixed,Positive
+1503,"Tum jaise log blindly support karte ho, critical thinking zero.",hate,I think this policy is good for the country.,#politics,Mixed,Negative
+1504,"Political debates constructive hone chahiye, personal attacks se kuch nahi hota.",non-hate,N/A,#politics,Mixed,Positive
+1505,"Ye neta log bas corruption karte hain, public ka paisa loot te hain.",hate,N/A,#politics,Mixed,Negative
+1506,Government ka digital initiative tech adoption badha raha hai.,non-hate,N/A,#politics,Mixed,Positive
+1507,"Ye opposition ka protest bas drama hai, real issues ignore karte hain.",hate,N/A,#politics,Mixed,Negative
+1508,Political stability economic growth ke liye zaroori hai.,non-hate,N/A,#politics,Mixed,Positive
+1509,"Is desh ke politicians incompetent hain, desh ka development rok rahe hain.",hate,N/A,#politics,Mixed,Negative
+1510,"Ye policy reform long overdue tha, positive change hai.",non-hate,N/A,#politics,Mixed,Positive
+1511,"Ye government ka economic policy disastrous hai, inflation sky-high.",hate,N/A,#politics,Mixed,Negative
+1512,Opposition aur government dono ko compromise seekhna chahiye.,non-hate,N/A,#politics,Mixed,Positive
+1513,"Tumhe politics ka kya pata, bas social media pe opinions dete ho.",hate,I have a right to my opinion.,#politics,Mixed,Negative
+1514,Ye electoral reform voter participation badha sakta hai.,non-hate,N/A,#politics,Mixed,Positive
+1515,"Ye sarkar ka foreign policy weak hai, desh ka image kharab ho raha hai.",hate,N/A,#politics,Mixed,Negative
+1516,Government ka ye initiative rural areas ko empower kar raha hai.,non-hate,N/A,#politics,Mixed,Positive
+1517,"Ye neta log bas vote bank ke liye kaam karte hain, desh ke liye nahi.",hate,N/A,#politics,Mixed,Negative
+1518,Political leaders ko accountability maintain karni chahiye.,non-hate,N/A,#politics,Mixed,Positive
+1519,"Tum jaise log political parties ko worship karte ho, cult mentality.",hate,I support my party because of their policies.,#politics,Mixed,Negative
+1520,"Ye policy ka long-term impact dekhna padega, abhi judgemental nahi hona chahiye.",non-hate,N/A,#politics,Mixed,Positive
+1521,"Ye government ka education reform fail hai, students suffer kar rahe hain.",hate,N/A,#politics,Mixed,Negative
+1522,"Government aur opposition dono ko milke kaam karna chahiye, desh ke liye.",non-hate,N/A,#politics,Mixed,Positive
+1523,"Ye sarkar ka healthcare policy inadequate hai, public suffer kar rahi hai.",hate,N/A,#politics,Mixed,Negative
+1524,Political reform transparency badha sakta hai.,non-hate,N/A,#politics,Mixed,Positive
+1525,Tum jaise log political ideologies ko religion bana lete ho.,hate,Ideologies guide my beliefs.,#politics,Mixed,Negative
+1526,"Public participation in governance important hai, citizen feedback matter karta hai.",non-hate,N/A,#politics,Mixed,Positive
+1527,"Ye neta log bas power ke liye ladte hain, public welfare secondary.",hate,N/A,#politics,Mixed,Negative
+1528,Ye budget allocation infrastructure ke liye crucial hai.,non-hate,N/A,#politics,Mixed,Positive
+1529,"Is government ka foreign policy confused hai, allies aur enemies ka pata nahi.",hate,N/A,#politics,Mixed,Negative
+1530,Opposition ka role checks and balances provide karna hai.,non-hate,N/A,#politics,Mixed,Positive
+1531,"Ye opposition ka behavior childish hai, constructive criticism nahi karte.",hate,N/A,#politics,Mixed,Negative
+1532,Government ka ye environmental policy sustainable development promote karta hai.,non-hate,N/A,#politics,Mixed,Positive
+1533,"Tum jaise log bas negativity spread karte ho, solutions nahi dete.",hate,I'm just pointing out the flaws.,#politics,Mixed,Negative
+1534,Political discourse civil aur fact-based hona chahiye.,non-hate,N/A,#politics,Mixed,Positive
+1535,Ye sarkar ka tax policy middle class ko burden dalta hai.,hate,N/A,#politics,Mixed,Negative
+1536,Ye new law citizen rights protect karta hai.,non-hate,N/A,#politics,Mixed,Positive
+1537,"Ye neta log bas speeches dete hain, ground reality se disconnected.",hate,N/A,#politics,Mixed,Negative
+1538,Government ka ye project employment opportunities create karega.,non-hate,N/A,#politics,Mixed,Positive
+1539,Tum jaise log political correctness ka drama karte ho.,hate,Respect matters.,#politics,Mixed,Negative
+1540,Ye policy change economic growth ko boost kar sakta hai.,non-hate,N/A,#politics,Mixed,Positive
+1541,Ye government ka defense budget unnecessary high hai.,hate,N/A,#politics,Mixed,Negative
+1542,Opposition aur government ko national interest pe focus karna chahiye.,non-hate,N/A,#politics,Mixed,Positive
+1543,Ye sarkar ka social welfare scheme ineffective hai.,hate,N/A,#politics,Mixed,Negative
+1544,Political stability investor confidence badhata hai.,non-hate,N/A,#politics,Mixed,Positive
+1545,Tum jaise log bas conspiracy theories believe karte ho.,hate,I question everything.,#politics,Mixed,Negative
+1546,Ye government initiative transparency aur accountability laayega.,non-hate,N/A,#politics,Mixed,Positive
+1547,"Ye neta log bas populist measures lete hain, long-term planning zero.",hate,N/A,#politics,Mixed,Negative
+1548,Government ka ye education budget increase welcome step hai.,non-hate,N/A,#politics,Mixed,Positive
+1549,Ye opposition ka narrative bas fear mongering hai.,hate,N/A,#politics,Mixed,Negative
+1550,Political leaders ko public service ke liye committed hona chahiye.,non-hate,N/A,#politics,Mixed,Positive
+1551,"Ye movie ka plot predictable tha, time waste.",hate,N/A,#entertainment,Mixed,Negative
+1552,Ye series ka character development impressive hai.,non-hate,N/A,#entertainment,Mixed,Positive
+1553,"Ye actor overrated hai, acting skills zero.",hate,N/A,#entertainment,Mixed,Negative
+1554,"Ye album ka lyrics meaningful hain, connect karte hain.",non-hate,N/A,#entertainment,Mixed,Positive
+1555,"Ye singer ka voice autotuned hai, live mein flop.",hate,N/A,#entertainment,Mixed,Negative
+1556,"Ye director ka vision unique hai, fresh perspective deta hai.",non-hate,N/A,#entertainment,Mixed,Positive
+1557,"Ye series ka ending disappointing tha, buildup ka payoff nahi.",hate,N/A,#entertainment,Mixed,Negative
+1558,Ye actor ka performance nuanced aur believable tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1559,"Ye director ka style repetitive hai, fresh ideas nahi.",hate,N/A,#entertainment,Mixed,Negative
+1560,"Ye movie ka cinematography stunning hai, visual treat.",non-hate,N/A,#entertainment,Mixed,Positive
+1561,"Tum jaise fans blindly praise karte ho, quality matter nahi karti.",hate,I loved this film!,#entertainment,Mixed,Negative
+1562,"Ye singer ka vocal range versatile hai, different genres handle kar sakta hai.",non-hate,N/A,#entertainment,Mixed,Positive
+1563,"Ye award shows rigged hain, deserving artists ko ignore karte hain.",hate,N/A,#entertainment,Mixed,Negative
+1564,Ye film festival diverse content showcase karta hai.,non-hate,N/A,#entertainment,Mixed,Positive
+1565,"Ye celebrity ka behavior arrogant hai, fans ko take for granted lete hain.",hate,N/A,#entertainment,Mixed,Negative
+1566,"Ye celebrity ka charity work admirable hai, positive influence.",non-hate,N/A,#entertainment,Mixed,Positive
+1567,"Ye film ka budget high tha, par execution poor.",hate,N/A,#entertainment,Mixed,Negative
+1568,"Ye web series ka pacing perfect hai, binge-worthy.",non-hate,N/A,#entertainment,Mixed,Positive
+1569,"Ye music album ka lyrics shallow hain, depth nahi.",hate,N/A,#entertainment,Mixed,Negative
+1570,Ye music video ka concept creative aur engaging tha.,non-hate,N/A,#entertainment,Mixed,Positive
+1571,"Ye traffic jams unbearable hain, city planning fail.",hate,N/A,#dailylife,Mixed,Negative
+1572,"Aaj ka commute smooth tha, traffic kam tha.",non-hate,N/A,#dailylife,Mixed,Positive
+1573,"Ye weather forecast galat tha, barish mein bheeg gaya.",hate,N/A,#dailylife,Mixed,Negative
+1574,"Ye caf?Æ ka ambiance cozy hai, perfect for reading.",non-hate,N/A,#dailylife,Mixed,Positive
+1575,"Ye restaurant ka service slow hai, staff rude.",hate,N/A,#dailylife,Mixed,Negative
+1576,"Neighbors ka community spirit acha hai, helpful log hain.",non-hate,N/A,#dailylife,Mixed,Positive
+1577,"Ye public transport overcrowded hai, uncomfortable.",hate,N/A,#dailylife,Mixed,Negative
+1578,Aaj ka shopping experience hassle-free tha.,non-hate,N/A,#dailylife,Mixed,Positive
+1579,Ye local market ka noise pollution irritating hai.,hate,N/A,#dailylife,Mixed,Negative
+1580,"Ye park ka maintenance improve ho raha hai, clean aur green.",non-hate,N/A,#dailylife,Mixed,Positive
+1581,"Tum jaise log public places pe litter karte ho, civic sense zero.",hate,Let's keep the city clean.,#dailylife,Mixed,Negative
+1582,Ye new caf?Æ ka menu diverse aur interesting hai.,non-hate,N/A,#dailylife,Mixed,Positive
+1583,Ye street dogs ka nuisance out of control hai.,hate,N/A,#dailylife,Mixed,Negative
+1584,Aaj ka weather perfect hai for outdoor activities.,non-hate,N/A,#dailylife,Mixed,Positive
+1585,Ye neighbors ka loud music sleep disturb karta hai.,hate,N/A,#dailylife,Mixed,Negative
+1586,Ye local gym ka equipment well-maintained hai.,non-hate,N/A,#dailylife,Mixed,Positive
+1587,Ye city ka air pollution health hazard ban gaya hai.,hate,N/A,#dailylife,Mixed,Negative
+1588,Ye new restaurant ka food quality top-notch hai.,non-hate,N/A,#dailylife,Mixed,Positive
+1589,"Ye power cuts frequent hain, infrastructure weak.",hate,N/A,#dailylife,Mixed,Negative
+1590,Ye community event well-organized aur enjoyable tha.,non-hate,N/A,#dailylife,Mixed,Positive
+1591,"Ye feminists bas drama karte hain, real issues ignore karte hain.",hate,N/A,#socialissues,Mixed,Negative
+1592,"Gender equality ke liye awareness badh rahi hai, positive change hai.",non-hate,N/A,#socialissues,Mixed,Positive
+1593,"Tum jaise log caste system ko justify karte ho, regressive thinking.",hate,Caste is a reality.,#socialissues,Mixed,Negative
+1594,Social justice movements se systemic changes ho rahe hain.,non-hate,N/A,#socialissues,Mixed,Positive
+1595,"Ye activists bas attention seek karte hain, solutions nahi dete.",hate,N/A,#socialissues,Mixed,Negative
+1596,Diversity and inclusion workplace culture ko enrich karte hain.,non-hate,N/A,#socialissues,Mixed,Positive
+1597,"Ye reservation policy unfair hai, merit ko ignore karta hai.",hate,N/A,#socialissues,Mixed,Negative
+1598,Affirmative action historically marginalized groups ko uplift karta hai.,non-hate,N/A,#socialissues,Mixed,Positive
+1599,"Tum jaise log LGBTQ rights ko dismiss karte ho, backward mentality.",hate,I have my beliefs.,#socialissues,Mixed,Negative
+1600,Ye pride parade celebration of love aur acceptance hai.,non-hate,N/A,#socialissues,Mixed,Positive

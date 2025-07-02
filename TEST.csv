@@ -1,0 +1,101 @@
+ID,Text,Label,Parent_Text,Hashtags,Language_Script,Sentiment
+1,"Ye neta sirf paisa khaata hai, desh ka kuch nahi sochta.",hate,N/A,#politics,Mixed,Negative
+2,"I hate this government, they are ruining everything.",hate,N/A,#politics,English,Negative
+3,"Ye policy bilkul bekar hai, public ko bewakoof bana rahe hain.",hate,N/A,#politics,Mixed,Negative
+4,"Opposition bas drama karti hai, kuch kaam nahi.",hate,N/A,#politics,Mixed,Negative
+5,"Tum jaise supporters blind ho, reality nahi dekhte.",hate,I support this leader.,#politics,Mixed,Negative
+6,"Ye movie bilkul bakwas thi, time waste mat karo.",hate,N/A,#movies,Mixed,Negative
+7,Is actor ka overacting se dimag kharab ho gaya.,hate,N/A,#movies,Mixed,Negative
+8,"Ye singer ka voice irritating hai, sun nahi sakta.",hate,N/A,#music,Mixed,Negative
+9,"Ye traffic jam se pareshan ho gaya, kabhi khatam nahi hota.",hate,N/A,#dailylife,Mixed,Negative
+10,"Aaj ka weather kitna ganda hai, mood off ho gaya.",hate,N/A,#dailylife,Mixed,Negative
+11,"This policy is a disaster, worst decision ever.",hate,N/A,#politics,English,Negative
+12,"Ye celebrity bas attention seeker hai, talent zero.",hate,N/A,#entertainment,Mixed,Negative
+13,"Tum log politics mein involved kyun hote ho, kuch samajh nahi aata.",hate,Let's discuss politics.,#politics,Mixed,Negative
+14,"Ye serial ka plot bilkul boring hai, switch off karo.",hate,N/A,#series,Mixed,Negative
+15,"Is restaurant ka food tasteless hai, paisa barbaad.",hate,N/A,#dailylife,Mixed,Negative
+16,"Ye neta ka speech sunke neend aa gayi, waste of time.",hate,N/A,#politics,Mixed,Negative
+17,"I can't stand this actor, overrated aur fake.",hate,N/A,#movies,English,Negative
+18,"Ye gaana kitna irritating hai, band karo.",hate,N/A,#music,Mixed,Negative
+19,"Ye sarkar bas taxes badha rahi hai, public suffer kar rahi.",hate,N/A,#politics,Mixed,Negative
+20,Tum jaise log social media pe negativity failate ho.,hate,I have my opinions.,#dailylife,Mixed,Negative
+21,Ye new policy se logon ko fayda hoga.,non-hate,N/A,#politics,Mixed,Positive
+22,Government ka ye initiative acha hai.,non-hate,N/A,#politics,Mixed,Positive
+23,Elections mein vote dena important hai.,non-hate,N/A,#politics,Mixed,Neutral
+24,Opposition ka role bhi zaroori hai democracy mein.,non-hate,N/A,#politics,Mixed,Neutral
+25,"Sahi bola, development ho raha hai.",non-hate,The government is doing a good job.,#politics,Mixed,Positive
+26,"Kal ki movie bahut achi thi, maza aa gaya.",non-hate,N/A,#movies,Mixed,Positive
+27,"Ye series binge-worthy hai, story gripping hai.",non-hate,N/A,#series,Mixed,Positive
+28,Mujhe ye gaana pasand hai.,non-hate,N/A,#music,Romanized,Positive
+29,"Aaj ka breakfast tasty tha, mood acha ho gaya.",non-hate,N/A,#dailylife,Mixed,Positive
+30,Main aaj office ja raha hoon.,non-hate,N/A,#dailylife,Mixed,Neutral
+31,This new policy seems promising.,non-hate,N/A,#politics,English,Positive
+32,Ye celebrity ka talent impressive hai.,non-hate,N/A,#entertainment,Mixed,Positive
+33,Politics discuss karna interesting hai.,non-hate,N/A,#politics,Mixed,Neutral
+34,Ye serial ka episode entertaining tha.,non-hate,N/A,#series,Mixed,Positive
+35,Is restaurant ka ambiance acha hai.,non-hate,N/A,#dailylife,Mixed,Positive
+36,Ye neta ka vision forward-thinking hai.,non-hate,N/A,#politics,Mixed,Positive
+37,"I enjoyed the concert, great performance.",non-hate,N/A,#music,English,Positive
+38,Ye album ka music soulful hai.,non-hate,N/A,#music,Mixed,Positive
+39,Aaj ka din productive raha.,non-hate,N/A,#dailylife,Mixed,Positive
+40,"Tumne sahi kaha, agree karta hoon.",non-hate,This is a good point.,#dailylife,Mixed,Positive
+41,Ye budget announcement desh ke liye acha nahi hai.,hate,N/A,#politics,Mixed,Negative
+42,I think this leader is corrupt.,hate,N/A,#politics,English,Negative
+43,"Ye film ka direction poor tha, disappointed.",hate,N/A,#movies,Mixed,Negative
+44,Ye cricketer ka performance pathetic hai.,hate,N/A,#sports,Mixed,Negative
+45,"Tum jaise log bas criticize karte ho, solutions nahi dete.",hate,We need change.,#politics,Mixed,Negative
+46,Ye social media trends toxic hain.,hate,N/A,#dailylife,Mixed,Negative
+47,Ye policy implementation fail ho jayegi.,hate,N/A,#politics,Mixed,Negative
+48,Is movie ka hype samajh nahi aata.,hate,N/A,#movies,Mixed,Negative
+49,"Ye weather forecast galat tha, barish mein bheeg gaya.",hate,N/A,#dailylife,Mixed,Negative
+50,Ye sarkar ka propaganda irritating hai.,hate,N/A,#politics,Mixed,Negative
+51,Ye budget se middle class ko relief milega.,non-hate,N/A,#politics,Mixed,Positive
+52,I think this leader has potential.,non-hate,N/A,#politics,English,Positive
+53,Ye film ka cinematography beautiful hai.,non-hate,N/A,#movies,Mixed,Positive
+54,Ye cricketer ka form improving hai.,non-hate,N/A,#sports,Mixed,Positive
+55,Tumne acha point raise kiya.,non-hate,Let's discuss solutions.,#politics,Mixed,Positive
+56,Social media se awareness badh rahi hai.,non-hate,N/A,#dailylife,Mixed,Positive
+57,Ye policy ka long-term impact dekhna padega.,non-hate,N/A,#politics,Mixed,Neutral
+58,Is movie ka soundtrack pasand aaya.,non-hate,N/A,#movies,Mixed,Positive
+59,Aaj ka weather report accurate tha.,non-hate,N/A,#dailylife,Mixed,Neutral
+60,Ye sarkar ka effort commendable hai.,non-hate,N/A,#politics,Mixed,Positive
+61,Ye politician ka agenda selfish hai.,hate,N/A,#politics,Mixed,Negative
+62,I can't believe people support this actor.,hate,N/A,#entertainment,English,Negative
+63,Ye serial ka drama over-the-top hai.,hate,N/A,#series,Mixed,Negative
+64,Ye team ka performance disappointing tha.,hate,N/A,#sports,Mixed,Negative
+65,Tum jaise log bas negativity spread karte ho.,hate,I'm just being realistic.,#dailylife,Mixed,Negative
+66,"Ye internet speed slow hai, frustrating.",hate,N/A,#dailylife,Mixed,Negative
+67,Ye government ka decision short-sighted hai.,hate,N/A,#politics,Mixed,Negative
+68,Is film ka script weak tha.,hate,N/A,#movies,Mixed,Negative
+69,Ye festival ka crowd unbearable hai.,hate,N/A,#dailylife,Mixed,Negative
+70,Ye neta ka promise bas jumla hai.,hate,N/A,#politics,Mixed,Negative
+71,Ye politician ka speech inspiring tha.,non-hate,N/A,#politics,Mixed,Positive
+72,I believe this actor has talent.,non-hate,N/A,#entertainment,English,Positive
+73,Ye serial ka storyline interesting hai.,non-hate,N/A,#series,Mixed,Positive
+74,Ye team ka comeback impressive tha.,non-hate,N/A,#sports,Mixed,Positive
+75,Tumne valid concern raise ki.,non-hate,We need to think critically.,#dailylife,Mixed,Positive
+76,Internet speed aaj fast hai.,non-hate,N/A,#dailylife,Mixed,Positive
+77,Ye government ka approach balanced lagta hai.,non-hate,N/A,#politics,Mixed,Neutral
+78,Is film ka direction commendable hai.,non-hate,N/A,#movies,Mixed,Positive
+79,Ye festival ka vibe energetic hai.,non-hate,N/A,#dailylife,Mixed,Positive
+80,Ye neta ka vision progressive hai.,non-hate,N/A,#politics,Mixed,Positive
+81,Ye sarkar bas corruption badha rahi hai.,hate,N/A,#politics,Mixed,Negative
+82,This movie was a waste of time.,hate,N/A,#movies,English,Negative
+83,"Ye gaana kitna repetitive hai, boring.",hate,N/A,#music,Mixed,Negative
+84,Ye player ka attitude arrogant hai.,hate,N/A,#sports,Mixed,Negative
+85,Tum jaise log bas complain karte rehte ho.,hate,Things need to change.,#dailylife,Mixed,Negative
+86,Ye weather forecast ne plans bigad diye.,hate,N/A,#dailylife,Mixed,Negative
+87,Ye policy se economy suffer karegi.,hate,N/A,#politics,Mixed,Negative
+88,Is series ka ending unsatisfactory tha.,hate,N/A,#series,Mixed,Negative
+89,"Ye traffic rules follow nahi hote, chaos hai.",hate,N/A,#dailylife,Mixed,Negative
+90,Ye leader ka statement misleading hai.,hate,N/A,#politics,Mixed,Negative
+91,Ye sarkar ka infrastructure plan solid hai.,non-hate,N/A,#politics,Mixed,Positive
+92,"This movie was entertaining, worth watching.",non-hate,N/A,#movies,English,Positive
+93,"Ye gaana catchy hai, playlist mein add karunga.",non-hate,N/A,#music,Mixed,Positive
+94,Ye player ka dedication inspiring hai.,non-hate,N/A,#sports,Mixed,Positive
+95,Tumne acha suggestion diya.,non-hate,Let's find a solution.,#dailylife,Mixed,Positive
+96,"Weather forecast accurate tha, outing plan kar sakte hain.",non-hate,N/A,#dailylife,Mixed,Positive
+97,Ye policy ka implementation smooth raha.,non-hate,N/A,#politics,Mixed,Positive
+98,Is series ka character development acha hai.,non-hate,N/A,#series,Mixed,Positive
+99,Traffic rules follow karne se safety badhti hai.,non-hate,N/A,#dailylife,Mixed,Positive
+100,Ye leader ka approach pragmatic hai.,non-hate,N/A,#politics,Mixed,Positive
